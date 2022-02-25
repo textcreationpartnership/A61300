@@ -1,0 +1,1015 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The good masters plea, against the evill servants cavill Discovering the vanity of those men, who judge the service of God to be vaine. Delivered in certaine sermons upon Malachi, 3. 14. Being a taste of the labours of that reverend, faith full, and holy servant of God, Nicholas Stanton, M. of Arts; late preacher of the gospel of Christ, at the parish of Margarets in Ipswich, in Suffolk.</title>
+            <author>Stanton, Nicholas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 146 KB of XML-encoded text transcribed from 94 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61300</idno>
+            <idno type="STC">Wing S5251</idno>
+            <idno type="STC">ESTC R222417</idno>
+            <idno type="EEBO-CITATION">99833595</idno>
+            <idno type="PROQUEST">99833595</idno>
+            <idno type="VID">38073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2218:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The good masters plea, against the evill servants cavill Discovering the vanity of those men, who judge the service of God to be vaine. Delivered in certaine sermons upon Malachi, 3. 14. Being a taste of the labours of that reverend, faith full, and holy servant of God, Nicholas Stanton, M. of Arts; late preacher of the gospel of Christ, at the parish of Margarets in Ipswich, in Suffolk.</title>
+                  <author>Stanton, Nicholas.</author>
+               </titleStmt>
+               <extent>[28], 144, [16] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Weekely, and are to be sold at his shop at Ipswich, and Iohn Rothwell at the signe of the Fountaine and Sunne in Pauls Churchyard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a table of contents and final errata leaf.</note>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original in the Congregational Library London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Malachi III, 14 --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38073:1" rendition="simple:additions"/>
+            <pb facs="tcp:38073:1" rendition="simple:additions"/>
+            <p>THE GOOD MASTERS PLEA, AGAINST THE EVILL SERVANTS CAVILL. Diſcovering the vanity of thoſe men, who judge the Service of God to be vaine. Delivered in certaine Sermons upon MALACHI, 3.14. Being a taſte of the labours of that reverend, faith full, and holy ſervant of God, <hi>Nicholas Stanton,</hi> M. of Arts; late Preacher of the Goſpel of Chriſt, at the Pariſh of <hi>Margarets</hi> in <hi>Ipſwich,</hi> in <hi>Suffolk.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>MALACHI, 1.10.</hi>
+               </bibl>
+               <p>Who is there even among you that would ſhut the doores for nought? neither do ye kindle fire on mine Altar for nought.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Weekely,</hi> and are to be ſold at his ſhop at <hi>Ipſwich,</hi> and <hi>Iohn Rothwell</hi> at the Signe of the <hi>Fountaine</hi> and <hi>Sunne</hi> in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard. 1650.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:38073:2" rendition="simple:additions"/>
+            <pb facs="tcp:38073:2"/>
+            <head>TO The Right Worſhipfull the Bayliffes, Burgeſſes, with the reſt of the in<g ref="char:EOLhyphen"/>habitants of the Towne of IPSWICH, And in particular, to the Authors Chriſtian Auditors.</head>
+            <opener>
+               <salute>Worthy, and well-eſteemed friends,</salute>
+            </opener>
+            <p>THat generall, and good <hi>reſpect,</hi> which the <hi>author</hi> of this <hi>treatiſe,</hi> found amongſt <hi>you,</hi> whil'ſt he was <hi>living,</hi> hath well perſwaded us,
+<pb facs="tcp:38073:3"/>that the <hi>reviving,</hi> of any <hi>little piece</hi> of his, would be very <hi>welcome</hi> after his <hi>death.</hi>
+            </p>
+            <p>The reſtoring of a <hi>dead</hi> man to <hi>life,</hi> 
+               <note place="margin">2 <hi>King.</hi> 13.21.</note> by the <hi>touch</hi> of the <hi>Prophet's bones,</hi> was an <hi>extraordina<g ref="char:EOLhyphen"/>ry,</hi> (and indeed, no leſſe then a <hi>miraculous</hi>) put<g ref="char:EOLhyphen"/>ting forth, of the <hi>power of God;</hi> and therefore, <hi>no ſufficient ground,</hi> for the common <hi>preſerving,</hi> (much leſſe, for the ſu<g ref="char:EOLhyphen"/>perſtitious <hi>adoring,</hi>) of the <hi>bodily reliques,</hi> of <hi>Saints</hi> departed.</p>
+            <p>Yet we muſt needs ac<g ref="char:EOLhyphen"/>knowledge,
+<pb facs="tcp:38073:3"/>
+               <hi>that</hi> great <hi>reviving,</hi> which many <hi>drooping hearts,</hi> have found, and felt, by the <hi>Spirituall reliques,</hi> of Gods faithfull ſervants, <hi>in workes of this nature;</hi> as it holds forth, a ſweet manifeſtation of the <hi>Grace of God,</hi> going a<g ref="char:EOLhyphen"/>long with the <hi>endea<g ref="char:EOLhyphen"/>vours</hi> of his <hi>ſervants;</hi> ſo, is it no leſſe <hi>warrant,</hi> for the <hi>preſerving,</hi> and <hi>pub<g ref="char:EOLhyphen"/>liſhing,</hi> ſuch <hi>Poſthumes</hi> as theſe, whereby the <hi>au<g ref="char:EOLhyphen"/>thors,</hi> being <hi>dead,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 11.4.</note> doe <hi>yet ſpeake,</hi> and (after a ſort) <hi>out-live themſelves;</hi> put<g ref="char:EOLhyphen"/>ting
+<pb facs="tcp:38073:4"/>alſo a kind of <hi>new life,</hi> into their <hi>deareſt friends</hi> who (being moſt deeply affected with their <hi>death,</hi>) could have found in their hearts, to have ſaid with <hi>Thomas,</hi> (if the will of the Lord had beene ſo, <note place="margin">
+                  <hi>Joh.</hi> 11.16</note>) <hi>let us alſo goe, that we may dye with him: I</hi> ſay, the <hi>reſurrecti<g ref="char:EOLhyphen"/>on</hi> of their <hi>labours</hi> [be<g ref="char:EOLhyphen"/>fore hand,] (which did ſeeme to have been <hi>bu<g ref="char:EOLhyphen"/>ried</hi> with them,) doth not a little <hi>revive</hi> their friends, <note place="margin">
+                  <hi>Io.</hi> 11.23, 24.</note> and is <hi>next in comfort</hi> to the <hi>reſurrecti<g ref="char:EOLunhyphen"/>on</hi> of their <hi>Bodies</hi> [at the
+<pb facs="tcp:38073:4"/>laſt day, <note place="margin">1 <hi>Theſ.</hi> 4.13.14, <hi>&amp;c.</hi>
+               </note>] or to the aſſu<g ref="char:EOLhyphen"/>rance of the <hi>happy condi<g ref="char:EOLhyphen"/>tion</hi> of their <hi>Soules,</hi> in the <hi>meane time.</hi>
+            </p>
+            <p>For this cauſe, wee were not a little encou<g ref="char:EOLhyphen"/>raged, to bring this <hi>child</hi> of <hi>light,</hi> into publike <hi>view;</hi> being well aſſu<g ref="char:EOLhyphen"/>red, that all ſuch as <hi>lo<g ref="char:EOLhyphen"/>ved</hi> the <hi>parents,</hi> will be very <hi>glad</hi> to ſee the <hi>face</hi> of it; And, if it ſhould happen (which is the ſad caſe of many a <hi>poor Or<g ref="char:EOLhyphen"/>phan</hi>) to meet with hard uſage, from the <hi>hands,</hi> and <hi>tongues</hi> of ſuch, as uſe to ſhew <hi>little kind<g ref="char:EOLhyphen"/>neſſe,</hi>
+               <pb facs="tcp:38073:5"/>either to the <hi>living,</hi> or to the <hi>dead;</hi> we make no queſtion but that great <hi>Lord Protector,</hi> whoſe <hi>ſervice it plead's for,</hi> will alſo <hi>plead for it;</hi> and (under him) we are bold to commit it to <hi>your care, and patronage.</hi>
+            </p>
+            <p>The <hi>work</hi> it ſelfe, ſpeaks much of the <hi>mind,</hi> and <hi>ſpirit</hi> of him, that <hi>com<g ref="char:EOLhyphen"/>pos</hi>'d <hi>it;</hi> and is like the ſweet ſent of a <hi>perfuming Candle,</hi> which continues a great while after the Candle it ſelfe is put forth, and removed out of the roome. It is a
+<pb facs="tcp:38073:5"/>work fit for <hi>theſe times,</hi> wherein the eyes of too mans profeſſors, are ſo dazled with <hi>looking up</hi> to their <hi>priviledges,</hi> they know not how to <hi>looke downe</hi> to their <hi>duties.</hi> 
+               <note place="margin">
+                  <hi>Heb.</hi> 13.2.</note>
+            </p>
+            <p>The <hi>author</hi> was (like <hi>Moſes</hi>) a <hi>faithfull Ser<g ref="char:EOLhyphen"/>vant</hi> in the <hi>houſe of God;</hi> and wee are perſwaded his maine deſigne was, to draw <hi>Others</hi> (alſo) from the <hi>vaſſalage of Satan,</hi> to the <hi>ſervice</hi> of <hi>God;</hi> 
+               <note place="margin">
+                  <hi>Act.</hi> 26.18.</note> in which <hi>worke,</hi> 
+               <note place="margin">
+                  <hi>Phil.</hi> 4.1.</note> God hath <hi>crown'd</hi> his <hi>endeavours</hi> with ſo many <hi>ſeales of his miniſtery,</hi> 
+               <note place="margin">1 <hi>Cor.</hi> 9.2.</note> (as well a<g ref="char:EOLhyphen"/>mongſt
+<pb facs="tcp:38073:6"/>
+               <hi>your-ſelves,</hi> as in <hi>other places</hi>) that if <hi>wee ſhould hold our peace, <note place="margin">
+                     <hi>Luk.</hi> 19.40.</note> many ſtony hearts,</hi> (converted into fleſh, and made <hi>chil<g ref="char:EOLhyphen"/>dren of Abraham,</hi>) <note place="margin">
+                  <hi>Mat.</hi> 3.9.</note> 
+               <hi>would ſpeake</hi> to the praiſe of <hi>Gods grace,</hi> in this uſefull <hi>inſtrument.</hi>
+            </p>
+            <p>In the opening, and applying of this <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> hee hath notably diſcovered, the <hi>vanity of thoſe men, who judge it a vaine thing, to ſerve God.</hi> It is moſt true,
+<note place="margin">1 <hi>Cor.</hi> 15.33.</note> that <hi>evill words,</hi> (much more <hi>e<g ref="char:EOLhyphen"/>vill principles</hi> in the <hi>heart,</hi>) <hi>doe corrupt good manners.</hi>
+            </p>
+            <pb facs="tcp:38073:6"/>
+            <p>The <hi>activity,</hi> or, <hi>una<g ref="char:EOLhyphen"/>ctivity</hi> of men [<hi>outward<g ref="char:EOLhyphen"/>ly,</hi>] doth moſt certainly ſpring, from <hi>internall principles,</hi> moſt deeply <hi>rooted,</hi> and cloſely <hi>rivet<g ref="char:EOLhyphen"/>ted,</hi> in their <hi>ſpirits:</hi> a<g ref="char:EOLhyphen"/>mongſt the reſt, a <hi>world</hi> of hurt is done, by this <hi>one common,</hi> and hurtfull principle in the <hi>World, [it is in vaine to ſerve God.]</hi>
+            </p>
+            <p>What makes men, ei<g ref="char:EOLhyphen"/>ther ſo deſperatly <hi>A<g ref="char:EOLhyphen"/>ctive,</hi> for the <hi>worſt of Maſters,</hi> or ſo ſhamefully <hi>unactive,</hi> for the <hi>beſt;</hi> but this ſecret <hi>perſwaſion,
+<pb facs="tcp:38073:7"/>that commeth not of him, <note place="margin">
+                     <hi>Gal.</hi> 5.8.</note> that calleth them?</hi>
+            </p>
+            <p>Now, wee know, a <hi>diſ<g ref="char:EOLhyphen"/>eaſe,</hi> clearly <hi>diſcovered,</hi> in the <hi>cauſe,</hi> is in the high<g ref="char:EOLhyphen"/>way of <hi>cure.</hi> The wiſ<g ref="char:EOLhyphen"/>dome, and ſpirituall skil, of this heavenly <hi>phyſiti<g ref="char:EOLhyphen"/>an,</hi> 
+               <note place="margin">
+                  <hi>Pro.</hi> 20.27.</note> hath much appeared in this kind; who by <hi>the candle of the Lord,</hi> hath made <hi>ſo deep ſearch</hi> into the <hi>privy Chambers</hi> of the Soul, and moſt <hi>in<g ref="char:EOLhyphen"/>ward</hi> thoughts of men, that, by the cleare diſ<g ref="char:EOLhyphen"/>covery, of the guil, and <hi>ſelf-deceit</hi> of their hearts in the <hi>ſervice</hi> of God,
+<pb facs="tcp:38073:7"/>they might be through<g ref="char:EOLhyphen"/>ly <hi>convinced</hi> of the error of their wayes,
+<note place="margin">1 <hi>Cor.</hi> 14.25.</note> and ſo <hi>the ſecrets of their hearts being made manifeſt, they might fall downe on their faces, and worſhip God, re<g ref="char:EOLhyphen"/>porting that God is in his Ordinance of a truth.</hi>
+            </p>
+            <p>If the communica<g ref="char:EOLhyphen"/>ting <hi>theſe labours,</hi> may (through Gods bleſſing) conduce to that <hi>happy end,</hi> (as, wee are aſſured it was the maine <hi>ayme</hi> of this faithfull <hi>Stevvard,</hi> in <hi>preaching</hi> of them) ſo we hope, it ſhall be <hi>our utmoſt end,</hi> in the <hi>publi<g ref="char:EOLhyphen"/>ſhing</hi> thereof.</p>
+            <pb facs="tcp:38073:8"/>
+            <p>For this cauſe, <note place="margin">
+                  <hi>Eph.</hi> 3.14.</note> 
+               <hi>we de<g ref="char:EOLhyphen"/>ſire to bow our knees unto the Father of our Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt;</hi> and to begge of <hi>you,</hi> that the <hi>Authors Plantation,</hi> 
+               <note place="margin">1 <hi>Cor.</hi> 3.6.</note> may be <hi>wate<g ref="char:EOLhyphen"/>red</hi> by your <hi>Prayers,</hi> and <hi>teares</hi> alſo, that <hi>God gi<g ref="char:EOLhyphen"/>ving the increaſe,</hi> his <hi>name</hi> may have the <hi>Glory,</hi> of all that <hi>Service,</hi> which is done in obedience to <hi>his commands,</hi> and his poore <hi>ſervants</hi> may enjoy the <hi>comfort,</hi> of all <hi>his preci<g ref="char:EOLhyphen"/>ous promiſes, <note place="margin">
+                     <hi>Iſa.</hi> 45.19.</note> who never ſaid to the ſeed of Iacob, ſeeke ye me in vaine.</hi>
+            </p>
+            <p>By the <hi>grace,</hi> and in
+<pb facs="tcp:38073:8"/>the <hi>ſtrength</hi> of this <hi>God,</hi> wee are bold to engage our ſelves,
+<note place="margin">2 <hi>Cor.</hi> 8.5.4, 5.</note> 
+               <hi>firſt</hi> to the <hi>Lord,</hi> and <hi>then</hi> unto <hi>you by the will of God,</hi>
+            </p>
+            <closer>
+               <signed>Your Servants for Jeſus ſake,
+<list>
+                     <item>Matthew Lawrence,</item>
+                     <item>Robert Stansbye,</item>
+                     <item>Iſaac Baſil.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:38073:9"/>
+            <pb facs="tcp:38073:9"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <hi>THou ſhalt finde,</hi> 1 Sam. 14.18. Ab<g ref="char:EOLhyphen"/>ſolon having no ſon to keep his name in re<g ref="char:EOLhyphen"/>membrance, he ſet up a Pillar; <hi>this Godly</hi> Au<g ref="char:EOLhyphen"/>thor, <hi>(whoſe modeſty was far enough of from affecta<g ref="char:EOLhyphen"/>tion of Printing as all know, that knew him) having no</hi> naturall iſſue, (<hi>though</hi> ſpiritually <hi>he brought
+<pb facs="tcp:38073:10"/>forth many ſonnes and daughters unto God</hi>) <hi>his</hi> Pious Conſort <hi>(while o<g ref="char:EOLhyphen"/>thers are building Sepul<g ref="char:EOLhyphen"/>chers to their fathers and Husbands) erects him this</hi> Pillar and Monument; <hi>both for</hi> matter, <hi>&amp;</hi> form, <hi>of his own providing &amp; hewing, by the help of Gods ſpirit while he lived; a</hi> Monument <hi>more laſting then that of</hi> Braſſe and Marble: <hi>It was found in his ſtudy, written out with his own hand (by importu<g ref="char:EOLhyphen"/>nity of a friend) for pri<g ref="char:EOLhyphen"/>vate uſe;</hi> but as the wine was found in the Clu<g ref="char:EOLhyphen"/>ſter
+<pb facs="tcp:38073:10"/>of Grapes, <note place="margin">
+                  <hi>Iſa.</hi> 65.8.</note> and one ſaid deſtroy it not, there is a bleſſing in it; <hi>ſo ſuch as ſaw it, much deſired the publication of it; And his Yoak-fellow (it being a I'hoenix ſpringing out of his aſhes, and the true</hi> child <hi>of ſuch a</hi> father) <hi>darſt not</hi> (<hi>with the</hi> careleſſe Mo<g ref="char:EOLhyphen"/>ther) <hi>ſuppreſſe and ſmother it, but call in help, <note place="margin">1 <hi>King.</hi> 3.19.</note> to hand it forth for</hi> Publike uſe, (<hi>which elſe had been</hi> ſtil<g ref="char:EOLhyphen"/>borne, <hi>and never ſeene the light,</hi>) <hi>that ſo he might</hi> live though dead, <hi>and that laſting Poſterity might</hi> riſe up and call him bleſ<g ref="char:EOLhyphen"/>ſed.
+<pb facs="tcp:38073:11"/>honey dropped <hi>and lay upon the ground, and</hi> Saul <hi>had kept the People by an Oath from eating; but</hi> Jo<g ref="char:EOLhyphen"/>nathan <hi>comming, and ta<g ref="char:EOLhyphen"/>sting thereof with the end of his rod, was much revi<g ref="char:EOLhyphen"/>ved and refreſhed, blaming his father for reſtraining the people; ſurely the peo<g ref="char:EOLhyphen"/>ple under this godly mans miniſtry, were brought to</hi> a place of much honey, <hi>where the word dropped abundantly, and was</hi> ſwee<g ref="char:EOLhyphen"/>ter then honey, and the honey-combe, <hi>where ma<g ref="char:EOLhyphen"/>ny a fainting and weary ſoule was cheered, and com<g ref="char:EOLhyphen"/>forted;
+<pb facs="tcp:38073:11"/>and you that do but</hi> taſte <hi>(as with the end of a rod) how good and gracious the Lord is, by this</hi> little piece <hi>of him (who other<g ref="char:EOLhyphen"/>wiſe was</hi> abundant in labours) <hi>will lay blame (ſome-where) that you are kept from</hi> more <hi>of it, (you will find ſuch ſweetneſſe in it) and thinke the Church hath wrong that ſhe wants any of her treaſure; but be aſſured (Reader whoever thou art) that no</hi> Ananias and Sapphira-like ſpirit <hi>hath held any of it back, but (that which hath been a cauſe why the labours of
+<pb facs="tcp:38073:12"/>many godly Miniſters have been buried with them) a neceſſity from the cloſeneſſe and ſhortneſſe of his notes and hand, which have made it not onely difficult, but almoſt impoſſible to Mid-wife them into the world; and if any imper<g ref="char:EOLhyphen"/>fect Copy ſhould be thruſt forth,</hi> 
+               <note place="margin">
+                  <hi>Gen.</hi> 38.29.</note> the breach be up<g ref="char:EOLhyphen"/>on them; <hi>Know it comes not poliſhed from the Au<g ref="char:EOLhyphen"/>thors pen, and is of quicker delivery, then that any skilful hand could come at it. His ſpent paines and la<g ref="char:EOLhyphen"/>bours (together with him<g ref="char:EOLhyphen"/>ſelf) are now with the Lord,
+<pb facs="tcp:38073:12"/>finding (what here he hath taught)</hi> that his labour was not in vaine in the Lord; <hi>he was a</hi> burning and a ſhining light <hi>while he lived, a workman that needed not be aſhamed, and this his</hi> work will praiſe him in the Gates; <hi>it car<g ref="char:EOLhyphen"/>ries its own</hi> letters of commendation, <hi>and if thine eye be ſingle, to judge righteous judgement, thou wilt find it full of heart-breaking, conſcience-con<g ref="char:EOLhyphen"/>vincing, and ſoule-incoura<g ref="char:EOLhyphen"/>ging truths, in plaine and familiar, (but heavenly and ſpiritual) dreſſe: and
+<pb facs="tcp:38073:13"/>while others are buſie in tying and untying knots, ſpending time in the brab<g ref="char:EOLhyphen"/>bles and diſputes of the times, which</hi> tend to ſtrife, rather then godli<g ref="char:EOLhyphen"/>neſſe, <hi>this holy ſervant of God, throwes out the</hi> di<g ref="char:EOLhyphen"/>ſputer of this world, <hi>and like a</hi> good Spie, <hi>or Seer, he brings, and maintaines</hi> a good report, <hi>of the</hi> good old way <hi>of</hi> ſerving God; <hi>And though, poſſi<g ref="char:EOLhyphen"/>bly, there may not be wan<g ref="char:EOLhyphen"/>ting ſome, that may call them low and legall things, not ſavouring (as they uſe to ſay) of the Goſpell ſpirit
+<pb facs="tcp:38073:13"/>of theſe times; to ſuch we anſwer; as</hi> Moſes <hi>had his</hi> Jannes and Jambres; <note place="margin">
+                  <hi>Exod.</hi> 17.11. 2 <hi>Tim.</hi> 3.5. &amp; 8.</note> and <hi>Paul met with ſome, that had a</hi> forme of Godli<g ref="char:EOLhyphen"/>neſſe but denyed the power thereof: men of corrupt minds that withſtood the truth; <note place="margin">2 <hi>Tim.</hi> 1.7.</note> 
+               <hi>ſo it may now fall out: but if thou haſt</hi> a ſpirit of love, and of a ſound mind, <hi>and haſt been nouriſhed up in the words</hi> of faith, <note place="margin">1 <hi>Tim.</hi> 4.6, 7.</note> and of good doctrine, <hi>which thou haſt continually fol<g ref="char:EOLhyphen"/>lowed, exerciſing thy ſelfe unto</hi> godlineſſe, <hi>thou wilt
+<pb facs="tcp:38073:14"/>eat and bleſſe God, and bleſſe his counſell; thou wilt find it very profitable, if the fault be not thine owne;</hi> eat, and digeſt the roll, <hi>and let it be ſweet in thy belly, and</hi> deſpiſe not the day of ſmall things; <hi>pray that the</hi> Lord of the harveſt, would thruſt forth more ſuch labou<g ref="char:EOLhyphen"/>rers, <hi>and that he would teach, and tell thee how</hi> vaine <hi>all things elſe are, but to</hi> ſerve God, <hi>and that godlineſſe onely is</hi> true gaine: <hi>and if any man teach otherwiſe, and con<g ref="char:EOLhyphen"/>ſenteth
+<pb facs="tcp:38073:14"/>not to the doctrine that is</hi> according to god<g ref="char:EOLhyphen"/>lineſſe, <hi>he is</hi> puft up, and knoweth nothing, but doteth about queſtions, and ſtrife of words, from whence commeth envy, ſtrife, railings, evil ſurmi<g ref="char:EOLhyphen"/>ſings, froward diſputati<g ref="char:EOLhyphen"/>ons of men of corrupt minds, deſtitute of the truth, which think that gaine is godlineſſe, from ſuch turn away. <hi>But leſt we unmannerly make thee ſtand too long at the</hi> door, <hi>ere wee bid thee come into the</hi> houſe, <hi>we beg thy pra<g ref="char:EOLhyphen"/>yers,
+<pb facs="tcp:38073:15"/>and are thine in the ſervice of the Goſpell.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Matthew Lawrence,</item>
+                     <item> Robert Stanſbye,</item>
+                     <item> Iſaac Baſil.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:38073:15"/>
+            <head>THE GOOD MASTERS PLEA, AGAINST THE EVILL SERVANTS CAVILL.</head>
+            <epigraph>
+               <bibl>
+                  <hi>MALACHI, 3.14.</hi>
+               </bibl>
+               <q>
+                  <p>Ye have ſaid, it is vaine to ſerve God.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Author, and Pen man, of this Book, (being the laſt of the firſt Teſtament) was the Pro<g ref="char:EOLhyphen"/>phet <hi>Malachi;</hi> who was one
+<pb n="2" facs="tcp:38073:16"/>of thoſe (even the laſt of thoſe) three Prophets, that the Lord raiſed up for the help of his Church, and be<g ref="char:EOLhyphen"/>nefit of his people, after that long and ſore captivity which they had been in, and now but newly delivered out of: and though they had been in <hi>a hot furnace,</hi> yet were they <hi>not purged from their droſſe.</hi> There were <hi>two ſinnes</hi> which the Prophet doth now eſpecially charge upon them.</p>
+            <p n="1">1. <hi>Slighting</hi> of Gods Ser<g ref="char:EOLhyphen"/>vices, and Ordinances.</p>
+            <p n="2">2. <hi>Cavilling</hi> at his wayes, and ſpeeches.</p>
+            <p>
+               <hi>Strange ſins</hi> to be found, eſpecially, in <hi>ſuch</hi> a people, at <hi>ſuch</hi> a time:</p>
+            <p>It might wel have bin expe<g ref="char:EOLhyphen"/>cted from this people, eſpeci<g ref="char:EOLhyphen"/>ally
+<pb n="3" facs="tcp:38073:16"/>
+               <hi>now,</hi> coming ſo lately out of ſuch ſore troubles, that they ſhould have <hi>laid their hands upon their mouthes,</hi> and have <hi>juſtified</hi> the Lord in all his proceedings; that they ſhould have been even <hi>hun<g ref="char:EOLhyphen"/>gry</hi> of offering Sacrifice, and <hi>glad</hi> of opportunity to have done <hi>God ſervice;</hi> reſolving after this manner; well, ſee<g ref="char:EOLhyphen"/>ing the Lord hath been ſo good to us, as <hi>to deliver us, out of the hands of our enemies,</hi> we will reſolve, <hi>to ſerve him, in holineſſe, and righteouſneſſe,</hi> all the remnant of our daies; and ſeeing we have wanted, our former opportunities of doing God ſervice, and of<g ref="char:EOLhyphen"/>fering him ſacrifice, but have them (now) reſtored us againe, we will now dou<g ref="char:EOLhyphen"/>ble our diligence, time, coſt,
+<pb n="4" facs="tcp:38073:17"/>and paines, in ſerving of him.</p>
+            <p>Theſe, and the like expreſ<g ref="char:EOLhyphen"/>ſions, might well have been expected to have come from this people, as, from ſuch as come out of affliction; but as it is nothing thus with many <hi>others,</hi> ſo neither was it with <hi>theſe;</hi> which were not onely ſoone weary of Gods ſervice <hi>themſelves,</hi> but (in their hearts at leaſt) condemned it, as fruitleſſe and unprofitable for <hi>any o<g ref="char:EOLhyphen"/>thers,</hi> for which (as here) they are reproved; <hi>ye have ſaid, it is vaine to ſerve God.</hi>
+            </p>
+            <p>Theſe words are an an<g ref="char:EOLhyphen"/>ſwer, to their cavil, or a freſh accuſation, and reply upon their ſtout ſelfe-juſtificati<g ref="char:EOLhyphen"/>ons in the former words, <hi>verſe</hi> 13. <hi>What have we ſpoken
+<pb n="5" facs="tcp:38073:17"/>ſo much againſt thee?</hi> Divers doctrines the words af<g ref="char:EOLhyphen"/>ford, — as 1. That Car<g ref="char:EOLhyphen"/>nal hearts are ful of proud cavils at Gods wayes, <hi>Mat.</hi> 25.24. <hi>&amp;c.</hi> 2. That the Lord takes notice what hard thoughts men have of him<g ref="char:EOLhyphen"/>ſelfe, and his wayes.</p>
+            <p>But letting them paſſe, ob<g ref="char:EOLhyphen"/>ſerve this.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label>
+               <hi>That carnall hearted people doe judge the ſerving of God in exactneſſe, to be but a vaine thing; or, that, they account the true ſervice of God, to be but a vaine ſervice.</hi>
+            </p>
+            <p n="1">1. I ſay carnal hearts doe thus judge, <hi>[ye have ſaid;]</hi> The Lord did not intend to charge <hi>all</hi> this people with this crime, nor yet <hi>any</hi> of thoſe, whoſe hearts were <hi>upright</hi> with him, for they
+<pb n="6" facs="tcp:38073:18"/>eſteemed far otherwiſe of the ſervice of God; as ap<g ref="char:EOLhyphen"/>peared by their practice in the 16. <hi>verſe;</hi> onely, he in<g ref="char:EOLhyphen"/>tended, ſuch as were in out<g ref="char:EOLhyphen"/>ward covenant with him, who though they were <hi>[in]</hi> Iſrael, were not <hi>[of]</hi> Iſ<g ref="char:EOLhyphen"/>rael: Againe, I adde, that they judge the <hi>exact</hi> ſerving of God to be vaine: they will acknowledge a neceſ<g ref="char:EOLhyphen"/>ſity of ſerving God (take it in their way and faſhion) they will give it in charge to their children, and ſervants, when they goe to bed; Sirs, have a care and ſerve God, if you doe not ſerve God, he wil not bleſſe you, &amp;c. But to be ſo <hi>exact,</hi> and preciſe, in ſerving of God, to be ſo ſtrict in keeping of his Ordi<g ref="char:EOLhyphen"/>nances, and in <hi>walking
+<pb n="7" facs="tcp:38073:18"/>mournefully before the Lord of Hoſts,</hi> (as theſe words are partly expounded by thoſe that follow them) this way of ſerving the Lord, is <hi>every where ſpoken againſt</hi> by Car<g ref="char:EOLhyphen"/>nall hearts, as here. <hi>It is vain to ſerve God.</hi>
+            </p>
+            <p>Nay, it wil be no hard thing to prove, that to <hi>ſerve God at all;</hi> or that the ſervice of God <hi>in general,</hi> is held by them, to be but <hi>a vaine thing</hi> and if <hi>this</hi> be proved, the <hi>other</hi> wil follow much more, as being included therein: and this is the thing that I ſhal firſt endeavour, for the further conviction of carnal hearts, that hereby they may ſee themſelves, and their conditions. True, it may be they wil not be<g ref="char:EOLhyphen"/>leeve it, and it may be they
+<pb n="8" facs="tcp:38073:19"/>doe not thinke, that they thinke ſo; but, they doe not know their hearts, as the <hi>Pſalmiſt ſaid of thoſe wicked men Pſal.</hi> 49.11. that their <hi>inward thought</hi> is ſo, and ſo. <hi>viz.</hi> that their houſes ſhall continue for ever, and their dwelling places to all gene<g ref="char:EOLhyphen"/>rations, &amp;c. — He ſeemes to diſtinguiſh, betweene <hi>thought</hi> and <hi>thought,</hi> an <hi>out<g ref="char:EOLhyphen"/>ward</hi> and an <hi>inward</hi> thought, their <hi>uppermoſt</hi> thought, that lies next the underſtan<g ref="char:EOLhyphen"/>ding, and conſcience, [and that is otherwiſe,] but there is another thought, that lies <hi>beneath</hi> and <hi>under</hi> this, which they know not themſelves [and that is, thus, that, it <hi>is in vaine, to ſerve God.</hi>] The truth of this is proved from <hi>Iob.</hi> 21.15. <hi>what is the alnigh<g ref="char:EOLhyphen"/>ty
+<pb n="9" facs="tcp:38073:19"/>we ſhould ſerve him? and what profit ſhould we have, if we pray to him?</hi> and from <hi>Iſay</hi> 58.3. <hi>wherefore have we faſted and thou ſeeſt it not? where<g ref="char:EOLhyphen"/>fore have we afflicted our ſoule and thou takeſt no knowledge?</hi> And it is further cleared, and confirmed, by theſe <hi>evi<g ref="char:EOLhyphen"/>dences,</hi> or evidenced by theſe particulars.</p>
+            <p n="1">1. <hi>By their wilfull and totall omiſſion of ſome known requi<g ref="char:EOLhyphen"/>red duties,</hi> ſo (except it be ſome ſtrait-laced hypocrite one of a thouſand) there is not a carnal heart to be found, but may be taken tardy this way.</p>
+            <p>The <hi>Phariſees,</hi> as ſtrict as they were, yet lived in the conſtant omiſſion of known required duties; and thoſe of the chiefeſt ſort: where<g ref="char:EOLhyphen"/>upon
+<pb n="10" facs="tcp:38073:20"/>our Saviour told them, that, <hi>theſe things they ought to have done,</hi> being things of moſt weight.</p>
+            <p>And that <hi>they laid aſide the commandement of God.</hi> 
+               <note place="margin">Mark 7.8.</note>
+            </p>
+            <p>As a man buying a large bargaine, doth pick, and chooſe, when he comes at that which doth not like him, hee layes it aſide, and wil none of it; this is not good, ſaith he, I doe not like this. So did they, and ſo doe all carnal hearts; when a Commandement from God comes at them requiring a duty, which they doe not like, they lay ſuch a Commandement a<g ref="char:EOLhyphen"/>ſide, as if it were an uſeleſſe Commandement, <hi>that it were in vaine</hi> to obey ſuch a com<g ref="char:EOLhyphen"/>mandement, that either <hi>no</hi>
+               <pb n="11" facs="tcp:38073:20"/>reward would come in for keeping that Commande<g ref="char:EOLhyphen"/>ment, or not <hi>enough</hi> to coun<g ref="char:EOLhyphen"/>tervaile that paines, and loſſe, that would follow up<g ref="char:EOLhyphen"/>on the keeping and obey<g ref="char:EOLhyphen"/>ing of it.</p>
+            <p>And this is evidence cleare enough, to prove, that in their hearts, they thinke, that the <hi>whole ſervice of God is in vaine;</hi> for did they thinke otherwiſe of the ſer<g ref="char:EOLhyphen"/>vice in <hi>generall,</hi> they would thinke otherwiſe, of the <hi>ſeverall acts,</hi> and parts of the ſervice; did they really beleeve, that there were re<g ref="char:EOLhyphen"/>ward in keeping of <hi>any</hi> of Gods Commandements, they would alſo beleeve a reward for keeping <hi>all,</hi> and every one.</p>
+            <p>And therefore, as he that
+<pb n="12" facs="tcp:38073:21"/>breaketh wilfully, and con<g ref="char:EOLhyphen"/>ſtantly, <hi>one point of the Law,</hi> is guilty of the breach of the <hi>whole Law:</hi> ſo, they that are guilty of judging the ſervice of the Lord vaine in <hi>any one particular,</hi> are guilty of Judging it ſo to be, in the <hi>generall.</hi>
+            </p>
+            <p>They then that doe omit, and neglect, prayer in the <hi>morning,</hi> doe in their hearts think it in vaine to pray in the <hi>evening,</hi> &amp;c.</p>
+            <p>Others there are, that wil chooſe to do things that are <hi>vaine,</hi> rather then be im<g ref="char:EOLhyphen"/>ployed in any part of Gods ſervice; how wil they ſpend their time? ſome <hi>playing,</hi> others <hi>ſleeping</hi> and <hi>ideling</hi> a<g ref="char:EOLhyphen"/>away their time, doing ei<g ref="char:EOLhyphen"/>ther <hi>nothing,</hi> or that, that is <hi>next to nothing,</hi> and <hi>worſe
+<pb n="13" facs="tcp:38073:21"/>then nothing,</hi> rather then <hi>ſerve God:</hi> is not this a cleer caſe, that theſe people doe think it to be <hi>vaine to ſerve God,</hi> or elſe they would not doe, as they doe.</p>
+            <p>Secondly, the truth in hand, appeareth, by their <hi>ſlighty performing</hi> of thoſe duties that they doe un<g ref="char:EOLhyphen"/>dertake; dealing with God <hi>deceitfully,</hi> as they in <hi>Acts</hi> 5.1.2. and turning the Lord off with any thing, as theſe people reproved in the text; of whom ſee <hi>Chap.</hi> 1.13. <note place="margin">Mal. 13.</note> 
+               <hi>ye brought that which was torne, lame, and ſick, ſaith the Lord:</hi> when they had a beaſt that was worried, baited, and bitten, that it was in danger to miſcarry, and dye; or good for little or nothing, that, they brought and of<g ref="char:EOLhyphen"/>fer'd
+<pb n="14" facs="tcp:38073:22"/>in ſacrifice. Yea? wil the Lord put us to ſuch coſt, and charge? and muſt we of neceſſity offer him ſo many ſacrifices? is there no ſhift for it? &amp;c.</p>
+            <p>Well, wee'l come off as <hi>good cheap</hi> as we can, he ſhal have the very worſt wee have, thoſe that are worth leaſt to be ſold, wil we of<g ref="char:EOLhyphen"/>fer: now their offering <hi>ſuch</hi> ſacrifices as theſe, ſhew'd that in their hearts they thought it <hi>in vaine</hi> to offer <hi>any</hi> at all; that they were but loſt, and caſt away, for, had they believed that the Lord would have <hi>rewarded</hi> them for their ſervices, and ſatisfied them fully for their Sacrifices, that they ſhould not have been looſers by any thing that they had
+<pb n="15" facs="tcp:38073:22"/>offered, he ſhould then have had the very <hi>beſt</hi> that they had; knowing that the <hi>better</hi> any thing is that they offer to God, the <hi>greater</hi> is the reward that God wil give to them for it. For this wil make a ſoule free for God; As <hi>David,</hi> who know<g ref="char:EOLhyphen"/>ing what a bountiful pay<g ref="char:EOLhyphen"/>maſter the Lord was, would <hi>not offer him ſacrifice, <note place="margin">2 Sam. 24.24.</note> of that which ſhould coſt him nothing.</hi> — Why? juſt thus, doe earnal hearts in doing the Lord ſervice (as theſe peo<g ref="char:EOLhyphen"/>ple did in offering him ſa<g ref="char:EOLhyphen"/>crifice) they bring him the <hi>torn, blind, and lame.</hi>
+            </p>
+            <p>Yea, is there no help, but I <hi>muſt</hi> doe <hi>duties</hi> heare, pray, repent, give almes, and the like; wel then, Il'e <hi>ſhift</hi> as as wel as I can; if I <hi>muſt
+<pb n="16" facs="tcp:38073:23"/>heare,</hi> I'le hear at my <hi>leiſure,</hi> when I have little elſe to doe.</p>
+            <p>If I <hi>muſt give,</hi> it ſhal be of that which I got by <hi>uſury, bribery,</hi> or the like.</p>
+            <p>If I <hi>muſt pray</hi> in my family, it ſhal be the <hi>laſt</hi> thing I doe immediately before I goe to bed, being half aſleep and halfe awake. If I <hi>muſt repent,</hi> I wil doe it when I am <hi>ready to dye,</hi> and goe out of the world, when I feel the houſe crack, and it be ready to tumble downe about my eares, then wil I ſeeke out for another habitation: and ſo for other duties.</p>
+            <p>This is the practice of car<g ref="char:EOLhyphen"/>nal hearts, thus to turn the Lord off with the <hi>worſt,</hi> which is a cleare evidence againſt them, that they
+<pb n="17" facs="tcp:38073:23"/>Judge his ſervice, to be but <hi>vaine ſervice.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, this truth may be evidenced, by their <hi>weari<g ref="char:EOLhyphen"/>neſſe</hi> in their ſerving the Lord, though in a ſlighty and formal manner; as this people in that place be<g ref="char:EOLhyphen"/>fore named, are charged with this very thing, <note place="margin">Malac. 1.13.</note> 
+               <hi>yee have ſaid, what a wearineſſe is it, and yee have ſnuffed at it. &amp;c.</hi>
+            </p>
+            <p>And thus are carnal hearts <hi>ſooneſt weary;</hi> though in ſome regard they have by far the <hi>leaſt cauſe.</hi>
+            </p>
+            <p>Of all men, one would thinke, that <hi>theſe people,</hi> ſhould not be <hi>weary</hi> of ſer<g ref="char:EOLhyphen"/>ving the Lord, that are at ſo little paines, and coſt, and ſo formal therein.</p>
+            <p>It might rather be thought,
+<pb n="18" facs="tcp:38073:24"/>that the <hi>people of God,</hi> which doe ſo put out themſelves, and ſpend their ſpirits in the ſervice of the Lord, that they, ſhould rather be <hi>weary,</hi> then ſuch as are ſlighty, and formal therein, turning the Lord off with lip-labour, and bodily exerciſe. And it is true indeed, if wearineſſe in the ſervice of God, did a<g ref="char:EOLhyphen"/>riſe from the <hi>expence of Spi<g ref="char:EOLhyphen"/>rits,</hi> then the <hi>godly</hi> ſhould be ſooner <hi>weary,</hi> then thoſe that are <hi>carnall;</hi> but, indeed, this is not the cauſe of it; but rather, a <hi>diſlike</hi> of the ſervice it ſelfe, from an in<g ref="char:EOLhyphen"/>diſpoſition in the heart (be<g ref="char:EOLhyphen"/>ing <hi>carnal</hi>) to a duty, or ſer<g ref="char:EOLhyphen"/>vice, that is of a <hi>ſpirituall</hi> nature; hence it is, that the people of God (who love the ſervice of God) after
+<pb n="19" facs="tcp:38073:24"/>ſuch time as they have been much with God in the du<g ref="char:EOLhyphen"/>ties of his ſervice, and have both wearyed their bodies, and waſted their ſtrength and ſpirits, yet <hi>delighting in the Law, and Service of God after the innerman,</hi> are not yet weary <hi>of</hi> the duty or ſer<g ref="char:EOLhyphen"/>vice it ſelfe, but wiſh that they had freſh ſtrength and Spirits. For it is one thing, to be weary <hi>in</hi> the ſervice of God, and another thing to be weary <hi>of</hi> the ſervice of God.</p>
+            <p>The <hi>firſt</hi> may befall a <hi>gra<g ref="char:EOLhyphen"/>tious heart,</hi> or child of God, but the <hi>latter,</hi> is the property of thoſe that are onely <hi>car<g ref="char:EOLhyphen"/>nall.</hi>
+            </p>
+            <p>And againe, there is much difference betweene that weariſomneſſe, that ariſeth
+<pb n="20" facs="tcp:38073:25"/>from <hi>inabilities</hi> to hold out any longer in the duty or ſervice, and that which ſpringeth from a <hi>diſlike</hi> of the duty or ſervice it ſelfe; both in the <hi>affections,</hi> from that contrariety that is in the heart (being carnal) to the duty or ſervice (as ſpi<g ref="char:EOLhyphen"/>ritual,) as alſo, in the <hi>judge<g ref="char:EOLhyphen"/>ment,</hi> from ſecret feares and thoughts of loſing its labour, and ſo being in vaine.</p>
+            <p>The earnal heart is wea<g ref="char:EOLhyphen"/>ry of the ſervice of God in this <hi>laſt</hi> manner, as wel as in the <hi>firſt,</hi> and that upon this laſt ground alſo, where<g ref="char:EOLhyphen"/>by the truth in hand is evi<g ref="char:EOLhyphen"/>denced.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, it is clearly evidenced: that they think the ſervice of God in vaine.</p>
+            <p>By thoſe <hi>baſe and hard
+<pb n="21" facs="tcp:38073:25"/>thoughts</hi> which they ſecretly harbour of ſuch as ſerve God <hi>more,</hi> and <hi>better</hi> then themſelves; this is a thing very commonly found in carnal hearts, (and who wil ſerve God a <hi>little</hi>) to be <hi>bit<g ref="char:EOLhyphen"/>ter in cenſuring</hi> of <hi>them</hi> that ſerve him <hi>much,</hi> thoſe that keep <hi>their</hi> times and go <hi>their</hi> pace and are of <hi>their</hi> Laſt and ſtraine, they can like wel enough.</p>
+            <p>But ſuch as <hi>exceed</hi> them, they ſuſpect for <hi>too much niceneſſe;</hi> what? wil not <hi>common</hi> Prayers pleaſe them? but they muſt have <hi>conceived</hi> Prayer? wil not praying with <hi>others,</hi> and in the family ſuffice? but they muſt Pray <hi>alone,</hi> and in their cloſets? wil not <hi>one</hi> Sermon a day content them? but
+<pb n="22" facs="tcp:38073:26"/>they muſt hear <hi>all</hi> day long? and are not Sermons on the <hi>Sunday</hi> ſufficient, but they muſt run to Sermons, and Lectures in the <hi>week</hi> too? &amp;c. Thus <hi>condemning the generation of the righteous,</hi> and ſuch as are better then themſelves.</p>
+            <p>Theſe thoughts and ſpee<g ref="char:EOLhyphen"/>ches proceed from carnal hearts, which conceive in themſelves, that the ſervice of God is altogether <hi>in vaine:</hi> for, if they did really beleeve, that it were <hi>good, and profitable</hi> to ſerve God a <hi>little,</hi> then it would follow even by the rule of common reaſon, that it is much bet<g ref="char:EOLhyphen"/>ter to ſerve him <hi>more,</hi> and ſo ſtill the <hi>more,</hi> the <hi>better.</hi>
+            </p>
+            <p>Take a man which belee<g ref="char:EOLhyphen"/>veth, that ſuch a <hi>worke or
+<pb n="23" facs="tcp:38073:26"/>Trade is gainefull,</hi> and profi<g ref="char:EOLhyphen"/>table, though he <hi>himſelfe</hi> cannot work, or earne that way, by reaſon of age, or infirmities, yet wil not hee condemne <hi>thoſe</hi> that can, and doe; but wil bleſſe them and their condition; wiſhing that he were in the ſame, him<g ref="char:EOLhyphen"/>ſelf. Alas (ſaith he) I am grown old, my ſight and ſtrength decayes, that my work is gone, I can make no earnings but loſe my time, &amp;c.</p>
+            <p>Oh, but ſuch, or ſuch, they are happy, for they can work, and earne; I am glad that <hi>others</hi> can, though <hi>J</hi> cannot; but I would I could work, for I know it is profi<g ref="char:EOLhyphen"/>table worke, and wil bring in great advantage to him that labours in it, whereas
+<pb n="24" facs="tcp:38073:27"/>
+               <hi>another,</hi> it may be, ſlights that work, and trade, and condemnes <hi>them</hi> of folly, that follow it moſt: and all out of ignorance, and that, becauſe they thinke it, to be but labour in vaine. Thus it is concerning the <hi>ſervice of the Lord,</hi> and the trade of godlineſſe, thoſe that are truly <hi>godly</hi> wil rejoyce that <hi>others</hi> ſerve God, and can do it better then <hi>themſelves.</hi> I am a poore ignorant crea<g ref="char:EOLhyphen"/>ture, a dwarfe and a nurling and grow very ſlowly, but I am glad to ſee <hi>others</hi> grow: <hi>my Spirit</hi> is ſtraitned, and bound up, but <hi>others</hi> are large hearted for God, and God lets out himſelfe to <hi>o<g ref="char:EOLhyphen"/>thers,</hi> though he be a ſtran<g ref="char:EOLhyphen"/>ger to <hi>my</hi> Soule; I am hard hearted, and cannot mourn
+<pb n="25" facs="tcp:38073:27"/>for my own, or others ſins; and for the afflictions of Gods Church, and people; which I, ought to doe, but cannot; Oh, but <hi>ſuch,</hi> or <hi>ſuch,</hi> they can doe theſe things; wel: bleſſed be God, I am glad that <hi>any body</hi> can doe thus. Oh! that <hi>J</hi> could do ſo too; this is an evidence of a gratious heart, that knowes the ſervice of God to be a <hi>profitable ſervice;</hi> but on the contrary, ſuch as ſpeak, or think <hi>otherwiſe,</hi> as formerly was ſaid, they think the ſervice of God to be but <hi>a vaine ſervice,</hi> and this doth clearly evidence their hearts to be but <hi>carnall.</hi>
+            </p>
+            <p>Thus for the <hi>proofe</hi> of the Doctrine, now follow the <hi>Grounds of Reaſons,</hi> why car<g ref="char:EOLhyphen"/>nal hearts doe Judge the
+<pb n="26" facs="tcp:38073:28"/>
+               <hi>ſervice of God to be but vaine.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label> The firſt is, becauſe they make queſtion, whether there be any ſuch Lord to ſerve or no, for (as <hi>Pſal.</hi> 14.1. <hi>The foole hath ſaid in his heart there is no God,</hi> ſo) ma<g ref="char:EOLhyphen"/>ny ſuch there be even a<g ref="char:EOLhyphen"/>mongſt us, who though they doe not <hi>verbally</hi> deny it, yet they doe <hi>not really</hi> and <hi>cor<g ref="char:EOLhyphen"/>dially</hi> beleeve it; for though this be one of thoſe <hi>morall principles</hi> that are engraven upon the heart of man by nature, which can never be utterly blotted out, yet (as others, ſo) this lies up as a <hi>dead principle</hi> in the Soule, and ſtirs little till it be en<g ref="char:EOLhyphen"/>livened; and then, they making queſtion, whether there <hi>be ſuch a God to ſerve</hi> or no, no marvaile though
+<pb n="27" facs="tcp:38073:28"/>they judge, and condemne the <hi>ſervice of that God to be in vain,</hi> when the worſhippers of <hi>Baal</hi> ſpent much time, and paines in praying, offring of ſacrifice, and <hi>cutting them<g ref="char:EOLhyphen"/>ſelves with Knives and Lan<g ref="char:EOLhyphen"/>cers,</hi> and continued thus do<g ref="char:EOLhyphen"/>ing all the day, from <hi>mor<g ref="char:EOLhyphen"/>ning</hi> till noone, and from noone till <hi>night,</hi> the <hi>Prophet</hi> that ſtood by, <hi>mockt at them,</hi> and derided them; and the <hi>reaſon</hi> why he did ſo, was, becauſe he knew that <hi>there was no ſuch God,</hi> as they ſee<g ref="char:EOLhyphen"/>med to ſerve, none ſuch to hear, and help, as they call'd and cried unto; and that therefore <hi>what they did was in vaine.</hi> Now that which <hi>Elijah</hi> the true ſervant of the true God, did to thoſe Prieſts, ſervants, and wor<g ref="char:EOLhyphen"/>ſhippers
+<pb n="28" facs="tcp:38073:29"/>of <hi>Baal:</hi> the ſer<g ref="char:EOLhyphen"/>vants of <hi>Baal,</hi> of the world and ſinne, doe to the ſer<g ref="char:EOLhyphen"/>vants of the <hi>true God,</hi> and that upon the ſelfe <hi>ſame ground</hi> (though they be mi<g ref="char:EOLhyphen"/>ſtaken.) When theſe car<g ref="char:EOLhyphen"/>nall hearted creatures, and atheiſticall ſpirits, look up<g ref="char:EOLhyphen"/>on the faithfull <hi>ſervants of God,</hi> and ſee what time they ſpend, and what paines they take, in the ſervice of the Lord, <hi>calling and crying</hi> to the Lord by fervent Prayer, <hi>cutting,</hi> I meane rending and tearing their hearts, <hi>by repentance, and hu<g ref="char:EOLhyphen"/>miliation:</hi> and that ſo long, and conſtantly from the <hi>morning</hi> of their youth, to the <hi>noon tide</hi> of their man<g ref="char:EOLhyphen"/>hood, and from the noone tide of their middle age, till
+<pb n="29" facs="tcp:38073:29"/>the evening of their life, &amp;c. where <hi>carnall hearts</hi> behold theſe things (I ſay) they ſe<g ref="char:EOLhyphen"/>creetly <hi>mock</hi> at the ſervants of God, for doing thus, as thinking in their hearts, that their <hi>labour</hi> is but <hi>loſt,</hi> and in <hi>vaine;</hi> becauſe they make queſtion whether there be <hi>any ſuch God</hi> to ſerve or no, which if there were not, then it were <hi>in vaine</hi> indeed, and though there <hi>be,</hi> yet they queſtioning the <hi>truth</hi> of it, theſe things muſt needs ſeeme <hi>in vaine to them.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>2</label>
+               <hi>Secondly,</hi> They thinke the ſervice of the Lord to be <hi>a vaine ſervice,</hi> becauſe tis <hi>in vain to them, they</hi> are never the better for any of Gods ſervice, which they doe, and therefore they think that <hi>no body elſe is; they</hi> get nothing
+<pb n="30" facs="tcp:38073:30"/>at the <hi>table</hi> of the Lord, nor at the <hi>throne</hi> of grace, but come away as dead hearted, with their corruptions as ſtrong, and they continuing as ignorant of the my ſteries of Chriſt and life, and as un<g ref="char:EOLhyphen"/>able to pray, or doe God a<g ref="char:EOLhyphen"/>ny ſervice, as formerly; and therefore it being thus with <hi>them,</hi> they thinke, it is thus with <hi>every body elſe,</hi> yea, that there is no ſuch <hi>good,</hi> as men ſpeake of, to be gotten in a<g ref="char:EOLhyphen"/>ny part of Gods <hi>ſervice.</hi> And the truth is, they <hi>dare do no otherwiſe,</hi> then give enter<g ref="char:EOLhyphen"/>tainement, to theſe kind of thoughts (being ſuggeſted to them by Satan) hereby <hi>to prevent</hi> that <hi>condemning ſen<g ref="char:EOLhyphen"/>tence,</hi> which their <hi>own conſci<g ref="char:EOLhyphen"/>ences,</hi> would be ready to paſſe upon them, for their
+<pb n="31" facs="tcp:38073:30"/>
+               <hi>unprofitableneſſe in Gods ſer<g ref="char:EOLhyphen"/>vice.</hi> For ſhould they ad<g ref="char:EOLhyphen"/>mit of this for a truth, that there were <hi>ſo much good</hi> to be got in duties, and ordi<g ref="char:EOLhyphen"/>nances, then would <hi>conſci<g ref="char:EOLhyphen"/>ence</hi> be upon them, and de<g ref="char:EOLhyphen"/>mand why <hi>they</hi> do then get <hi>no more good</hi> thereby, and ſo make them call into queſti<g ref="char:EOLhyphen"/>on the <hi>truth,</hi> and upright<g ref="char:EOLhyphen"/>neſſe of their <hi>hearts,</hi> and the <hi>manner</hi> of their performing duties, and doing of God ſervice. Which to <hi>prevent,</hi> as alſo to ſave themſelves in the <hi>eſteeme of others</hi> (ſo farre as they can) they caſt this <hi>imputation,</hi> upon the <hi>ſervice of God</hi> it ſelfe. <label type="milestone">
+                  <seg type="milestoneunit">Simil. </seg>
+               </label> As it is the practice of ſome <hi>ſervants,</hi> that having waſted their <hi>wages</hi> by ſome riotous cour<g ref="char:EOLhyphen"/>ſes, or ſecret haunts of <hi>ex<g ref="char:EOLhyphen"/>pence,</hi>
+               <pb n="32" facs="tcp:38073:31"/>to ſave their <hi>credits</hi> with their friends, and ſuch as would elſe be ready to tax them, for ill husbandry, in comming away without clothes on their backs, or money in their purſe, they, to ſave their credit, and a<g ref="char:EOLhyphen"/>void blame, unjuſtly accuſe, that <hi>ſervice</hi> they dwelt in, &amp; ſay that it is a ſtroying and waſting ſervice,
+[much work, and little wages,] that there is nothing to be gotten in it, and the like; thinking thereby, to ſcape free from blame, which (tis true) they may doe, with <hi>thoſe</hi> that know not the ſervice, but not with <hi>thoſe</hi> that know how good and profitable a ſervice it is.</p>
+            <p>Thus doe <hi>carnall hearts,</hi> with the <hi>ſervice of God,</hi> and
+<pb n="33" facs="tcp:38073:31"/>the duties of it, thinking, and ſaying, it is but <hi>vaine,</hi> to ſave themſelves; and whereas, they cannot deny, but that <hi>ſome others,</hi> doe thrive, and grow better, and more then <hi>themſelves,</hi> they will not ac<g ref="char:EOLhyphen"/>knowledge this, to be, from the <hi>duties</hi> of Gods ſervice, but rather from <hi>ſome other thing:</hi> as for inſtance, when they ſee <hi>others</hi> grow in knowledge, and parts, whilſt <hi>themſelves</hi> remaine, ſtill groſſely ignorant, they will not acknowledge, that they got this, by attending upon the <hi>meanes,</hi> and <hi>ordi<g ref="char:EOLhyphen"/>nances,</hi> but rather impute it, to <hi>good education,</hi> to the ſtrength of their <hi>memories,</hi> and other abilities of their <hi>own,</hi> when they ſee <hi>others</hi> have gotten power over
+<pb n="34" facs="tcp:38073:32"/>their paſſions, and corrup<g ref="char:EOLhyphen"/>tions, whilſt <hi>they</hi> remaine ſtill hare-braind, and furious upon every ſlight occaſion, that the wagging of a ſtraw, will make them off the hookes, and make them lit<g ref="char:EOLhyphen"/>tle better then Bedlams, they will not aſcribe any ſuch grace, to be <hi>power</hi> re<g ref="char:EOLhyphen"/>ceived from <hi>Ieſus Chriſt,</hi> through any <hi>ordinance,</hi> but rather to the <hi>goodneſſe of their natures.</hi> Oh, <hi>they</hi> are of a more <hi>milde diſpoſition</hi> then <hi>I</hi> am of, <hi>my</hi> nature is haſty, <hi>I</hi> cannot help it, &amp;c.—Nay, rather then they will take ſhame to <hi>themſelves,</hi> they wil lay the blame upon <hi>God,</hi> if for want of a true change in the <hi>heart,</hi> they remaine without the ſpirit of <hi>God,</hi> and the ſpirit of <hi>ſupplication,</hi>
+               <pb n="35" facs="tcp:38073:32"/>that they are ſtill children, and babes, &amp; cannot ſpeak in Prayer, further then what they have gotten from o<g ref="char:EOLhyphen"/>thers; then wil they <hi>excuſe themſelves,</hi> and ſay, that <hi>God doth not give</hi> the ſpirit of Prayer to every one alike; not conſidering that <hi>promiſe,</hi> of Gods giving his holy ſpi<g ref="char:EOLhyphen"/>rit, to them that aske it, meaning aright; it is gran<g ref="char:EOLhyphen"/>ted, that he doth <hi>not give it a like to all</hi> his people, but yet he gives it <hi>ſo to all,</hi> as it will be quickly <hi>diſcernable</hi> to them that have it, even this way, as many other wayes beſide.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>3</label> A <hi>third</hi> ground or reaſon of carnall peoples Judging thus of the <hi>ſervice of God,</hi> as if it were <hi>in vaine,</hi> is, be<g ref="char:EOLhyphen"/>cauſe they ſee many of <hi>thoſe,</hi>
+               <pb n="36" facs="tcp:38073:33"/>very <hi>negligent,</hi> and careleſſe herein, <hi>whom they much ad<g ref="char:EOLhyphen"/>mire; great</hi> ones, and <hi>lear<g ref="char:EOLhyphen"/>ned</hi> ones, whom they Judge to be ſo <hi>wiſe,</hi> that they can<g ref="char:EOLhyphen"/>not be thus miſtaken.— And therefore, when they ſee them <hi>careleſſe</hi> in the du<g ref="char:EOLhyphen"/>ties of Gods ſervice, that either they uſe <hi>no prayer,</hi> nor duties in their families, or but <hi>ſeldome,</hi> or if conſtantly, yet but in a <hi>ſlighty</hi> formall way; (ſo for hearing the word and other duties, &amp;c.) They begin to <hi>thinke,</hi> ſurely, theſe things are not ſo need<g ref="char:EOLhyphen"/>full, this ſame <hi>ſerving of God</hi> in this manner, is not ſo <hi>profitable,</hi> for if it were, certainly ſuch and ſuch <hi>lear<g ref="char:EOLhyphen"/>ned men and great Schollers,</hi> (that ſhould know better what belong to it then ſo,)
+<pb n="37" facs="tcp:38073:33"/>would not <hi>omit</hi> theſe things as they doe: thus as the A<g ref="char:EOLhyphen"/>poſtle ſaith of them in <hi>Iude,</hi> that they had ſome <hi>mens perſons in admiration,</hi> ſo ſome mens <hi>Iudgements,</hi> and <hi>Practices,</hi> are had in <hi>admira<g ref="char:EOLhyphen"/>tion,</hi> and followed as uner<g ref="char:EOLhyphen"/>ring <hi>patterns,</hi> and the judge<g ref="char:EOLhyphen"/>ments, and <hi>examples</hi> of theſe men, are more to them, then all the <hi>precepts</hi> of God, not conſidering that of the A<g ref="char:EOLhyphen"/>poſtle 1 <hi>Cor.</hi> 1.26. <hi>not many wiſe, or great, or noble, are cal<g ref="char:EOLhyphen"/>led.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>4</label> The <hi>fourth</hi> Reaſon, why carnall hearts Judge the <hi>ſer<g ref="char:EOLhyphen"/>vice of God a vaine ſervice</hi>—is, becauſe, the Lord doth ma<g ref="char:EOLhyphen"/>ny times <hi>deferre the paying of his ſervants wages,</hi> for the ſervice which they do, for him, till afterwards.—</p>
+            <pb n="38" facs="tcp:38073:34"/>
+            <p>God doth not give them <hi>outward</hi> proſperity, it may be at all; and no marvell, be<g ref="char:EOLhyphen"/>cauſe as <hi>his Kingdome, is not of this world,</hi> ſo neither ſhall his <hi>ſervants</hi> live, as in a <hi>Kingdome</hi> here; nay, it may be, they attaine not, to that <hi>inward</hi> joy, and peace, which they expect, and ſhall bee ſure of, at laſt; together, with other parts, of their re<g ref="char:EOLhyphen"/>ward; which they are <hi>un<g ref="char:EOLhyphen"/>capable of,</hi> whil'ſt they are <hi>here,</hi> onely, they muſt ſtay, as <hi>thoſe labourers for their pen<g ref="char:EOLhyphen"/>ny,
+<note place="margin">Mat. 20.</note> till night;</hi> ſo they for their reward till <hi>death.</hi>
+            </p>
+            <p>Now carnall people, ſee<g ref="char:EOLhyphen"/>ing <hi>nothing comming in,</hi> ha<g ref="char:EOLhyphen"/>ving <hi>no Bird in their hand,</hi> and wanting <hi>faith,</hi> to be<g ref="char:EOLhyphen"/>lieve, and <hi>patience</hi> to waite, give it over, as <hi>labour loſt,</hi> and
+<pb n="39" facs="tcp:38073:34"/>paines to no purpoſe, that is taken in this ſervice, like as in their own doing ſer<g ref="char:EOLhyphen"/>vice, to the Devill, becauſe when they have <hi>ſinned,</hi> 
+               <note place="margin">Pſal. 50.</note> and God is ſo patient, as not to <hi>reprove</hi> and puniſh them, for the <hi>preſent</hi> they think hee <hi>never</hi> will; ſo in the doing of good, and ſerving the Lord, they think, becauſe it is not rewarded for the <hi>preſent,</hi> therefore it <hi>never</hi> will, though yet the Lord hath bound himſelfe, by many <hi>promiſes,</hi> to reward them; which <hi>bonds</hi> are good <hi>debts,</hi> and the Chriſtians <hi>reverſi<g ref="char:EOLhyphen"/>ons,</hi> which are better then the worldlings <hi>poſſeſſions.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> But here comes an <hi>objecti<g ref="char:EOLhyphen"/>on,</hi> in the way, which muſt be removed, before we can proceed any further; thus
+<pb n="40" facs="tcp:38073:35"/>ſome, may ſay, if ſo many doe think, the ſervice of God to be in vaine, as you ſay doe, <hi>why</hi> then doe <hi>any,</hi> that are thus naturall, and <hi>carnall,</hi> keep Gods ſervice, or doe him <hi>any work at all?</hi> you will grant, that many which are naturall, and car<g ref="char:EOLhyphen"/>nall, yet doe much of Gods work, pray, preach, heare, &amp;c.</p>
+            <p>And if they thought, that <hi>all</hi> which they did, were in <hi>vaine,</hi> ſurely, they would not doe, as they do, to loſe labour.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, there are divers <hi>grounds,</hi> and reaſons, of their doing God ſome work, and ſervice, though yet in their hearts they think it to be in vaine, I will inſtance in two; the oneis, that they are haled
+<pb n="41" facs="tcp:38073:35"/>and <hi>forced</hi> hereunto, and that they can do no leſſe; either, the <hi>examples</hi> of o<g ref="char:EOLhyphen"/>thers, or a <hi>habit,</hi> gotten by practice, or <hi>powerfull ordi<g ref="char:EOLhyphen"/>nances,</hi> making way, and work, for an inlightned con<g ref="char:EOLhyphen"/>ſcience, not quite benum'd, they are hereby, forced up<g ref="char:EOLhyphen"/>on that ſervice, of God, which of themſelves, they have no love unto;
+<label type="milestone">
+                  <seg type="milestoneunit">Simil. </seg>
+               </label> As <hi>two men,</hi> that are <hi>friends,</hi> dwell together, the <hi>one</hi> of them, having much work to doe, calls to the <hi>other,</hi> to come and helpe, happily he will not goe <hi>himſelf,</hi> but ſends in his <hi>man,</hi> now this man, goes to work, not out of any <hi>love</hi> to him, that he goes to work withall, nor yet out of any <hi>hope,</hi> to be the better for working with him, for
+<pb n="42" facs="tcp:38073:36"/>he is agreed with his own Maſter, and ſo therefore looks upon all other work as <hi>in vaine,</hi> onely, yet he goes, as <hi>ſent</hi> by his own ma<g ref="char:EOLhyphen"/>ſter, and ſo works for the <hi>o<g ref="char:EOLhyphen"/>ther,</hi> and <hi>dare</hi> doe no leſſe; even ſo it is here, <hi>God</hi> and <hi>conſcience</hi> are <hi>two friends,</hi> and God having work to doe, Prayers to make, Sermons to Preach, and heare, or af<g ref="char:EOLhyphen"/>flictions to ſuffer, &amp;c. <hi>con<g ref="char:EOLhyphen"/>ſcience,</hi> that, being <hi>Gods friend,</hi> ſends in its <hi>man</hi> (for many a man is more ſervant to his <hi>conſcience</hi> then he is to <hi>God</hi>) and he falls to this work, yet looking upon it as <hi>in vaine,</hi> and yet can doe <hi>no leſſe</hi> then goe, and work, being <hi>ſent,</hi> and forced by the power of his <hi>conſcience,</hi> to which he is <hi>a Servant,</hi> and
+<pb n="43" facs="tcp:38073:36"/>not to <hi>God,</hi> though yet hee doth his <hi>worke.</hi> And there is many a man that if his own <hi>Maſter</hi> (conſcience) would let him <hi>alone,</hi> that he could be quiet, would not do half ſo much of <hi>Gods work,</hi> as now he doth. But when he goes to bed, like a beaſt, or abroad in the morning with<g ref="char:EOLhyphen"/>out prayer, <hi>conſcience</hi> ſtuffes his Pillow with Pricks, and doth ſo hale, gaule him, and diſeaſe him, that he cannot be quiet, but it doggs him, and there it baites him; thou haſt not beene at prayer, how dar'ſt thou make ſuch adventures as thou doſt? how can'ſt thou look to bee kept, or bleſt without ſee<g ref="char:EOLhyphen"/>king God? &amp;c. Hereup<g ref="char:EOLhyphen"/>on, he falls to <hi>work,</hi> and then conſcience is <hi>quiet,</hi> and gi<g ref="char:EOLhyphen"/>ving
+<pb n="44" facs="tcp:38073:37"/>him, a little curſed peace, he is <hi>quiet</hi> too, and this wages he hath from his <hi>conſcience,</hi> for the work, and duties which he doth; but as for any reward from <hi>God,</hi> he hath no ground, to looke for any, and yet doth, what he doth, upon this ground. I grant the beſt of Gods ſer<g ref="char:EOLhyphen"/>vants are bound to hearken to the voyce of <hi>conſcience,</hi> but wicked men are more <hi>driven</hi> by the laſh and ac<g ref="char:EOLhyphen"/>cuſation of conſcience, then <hi>drawn</hi> to duty <hi>by</hi> the light thereof.</p>
+            <p>The <hi>other</hi> ground, of this their doing God ſome work, though yet in their hearts, they think that <hi>ſervice</hi> of God to be in <hi>vaine,</hi> is this:</p>
+            <p>They do it, <hi>to make ſure uncertainties:</hi> for though
+<pb n="45" facs="tcp:38073:37"/>(for their <hi>own</hi> parts) they be <hi>ſetled</hi> in the thoughts, and reſolutions, of theſe things, and think, and ſay, as the Scripture ſaies of them, that there is <hi>no God,</hi> or that his <hi>ſervice is in vaine,</hi> &amp;c.</p>
+            <p>Yet, either by ſome po<g ref="char:EOLhyphen"/>werfull <hi>Sermon,</hi> or upon the generall acknowledgement of the contrary, by <hi>others,</hi> or happily, upon the behol<g ref="char:EOLhyphen"/>ding, of ſome of <hi>Gods people,</hi> and their carriage, in ſick<g ref="char:EOLhyphen"/>neſſe, and at the approaches of death, how comfortably they lay, and how confident they were, of a liberall re<g ref="char:EOLhyphen"/>ward for their ſerving of God, &amp;c. Having alſo ſome <hi>taſt,</hi> and the firſt fruits of it already: theſe things make theſe people begin <hi>to doubt,</hi> and queſtion, what before,
+<pb n="46" facs="tcp:38073:38"/>they ſeemed <hi>reſolved</hi> of, that many a man comes away, ſighing, and ſaying, within himſelfe, well, I am affraid, that if this were <hi>my</hi> conditi<g ref="char:EOLhyphen"/>on, that death were com<g ref="char:EOLhyphen"/>ming for <hi>me,</hi> and <hi>I</hi> were un<g ref="char:EOLhyphen"/>der the hand of God, and ſo near <hi>my</hi> end, as <hi>ſuch a one</hi> is, I ſhould not be ſo comforta<g ref="char:EOLhyphen"/>ble as <hi>he</hi> is, but that <hi>J</hi> ſhould lye like <hi>a wild Bul in a net,</hi> ful of the fury of the Lord, and be at my wits end; &amp; there<g ref="char:EOLhyphen"/>fore it may be, that I have been <hi>miſtaken,</hi> all this while; and for all <hi>this</hi> there <hi>may be</hi> a God, and there <hi>may be</hi> ſome <hi>reward</hi> in <hi>ſerving</hi> of him, &amp;c. and hereupon, he reſolves to do <hi>ſomething</hi> in Gods ſer<g ref="char:EOLhyphen"/>vice; well, I will reſolve, to pray, hear, &amp;c. More then I have done, that <hi>if</hi> there be a
+<pb n="47" facs="tcp:38073:38"/>
+               <hi>God,</hi> and there be <hi>any reward</hi> for his ſervice, I may have <hi>ſomething</hi> in the Bank, and a comming; — thus thinking to <hi>make ſure,</hi> however things goe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Simil. </seg>
+               </label> As you ſhall have ſome ignorant hide bound <hi>Coun<g ref="char:EOLunhyphen"/>treyman,</hi> that, having no skil, nor experience in <hi>Sea-af<g ref="char:EOLhyphen"/>faires,</hi> and adventures into forraigne parts, and new plantations, is quite againſt <hi>ſuch kind of trading,</hi> when the ſhip goes out, he gives it for loſt, and all that is ven<g ref="char:EOLhyphen"/>tured in it, ſecretly condem<g ref="char:EOLhyphen"/>ning them for <hi>folly,</hi> [at leaſt] that have nothing to doe with their moneys, but to make ſuch deſperate <hi>ventures</hi> of it, as theſe; and yet <hi>this man</hi> hearing, how ſuch a one, and ſuch a one,
+<pb n="48" facs="tcp:38073:39"/>by putting in a ſtock of mo<g ref="char:EOLhyphen"/>ney, and imploying it that way, were <hi>great gainers,</hi> and and made men for ever, as they ſay; <hi>this man</hi> at length, and in time, may be brought to make ſome <hi>venture him<g ref="char:EOLhyphen"/>ſelfe</hi> that way; reaſoning thus; well, though I have no minde that way, yet I care not, if I venture ſomething at Sea, &amp;c. It <hi>may be</hi> the ſhip may return, and ſome profit <hi>may</hi> come by it, that if it doth prove ſo, I may be the better, and ſave <hi>ſome<g ref="char:EOLhyphen"/>thing,</hi> but he will not ven<g ref="char:EOLhyphen"/>ture <hi>ſo much</hi> as ſhall undoe him, if it ſhould miſcarry, but what he can eaſily ſpare: So it is here, <hi>carnall hearts</hi> though they Judge thus of the <hi>ſervice</hi> of God, as <hi>vaine;</hi> and that labour as loſt, that
+<pb n="49" facs="tcp:38073:39"/>is taken therein; yet percei<g ref="char:EOLhyphen"/>ving (as before was ſaid) what <hi>others,</hi> have got there<g ref="char:EOLhyphen"/>by, are hereby brought, to do <hi>ſomething</hi> for God, think<g ref="char:EOLhyphen"/>ing, that <hi>if there be a God,</hi> and it be <hi>not in vain</hi> to ſerve him, that <hi>ſomething</hi> may come in, in an evill day; being ſo <hi>ſimple</hi> as not to con<g ref="char:EOLhyphen"/>ſider, that God will be ſer<g ref="char:EOLhyphen"/>ved aright for the <hi>manner,</hi> as well as for the <hi>matter:</hi> nei<g ref="char:EOLhyphen"/>ther will they venture <hi>much</hi> for God, to part with <hi>all</hi> for the <hi>Pearle,</hi> but onely venture <hi>ſo farre,</hi> as to provide for themſelves, how they may be <hi>happy</hi> (as they thinke) without any thing comming <hi>in,</hi> this way.</p>
+            <p>The firſt uſe of this Do<g ref="char:EOLhyphen"/>ctrine, is, for <hi>Information,</hi> 
+               <note place="margin">Vſes.</note> and that in many <hi>particulars,</hi>
+            </p>
+            <pb n="50" facs="tcp:38073:40"/>
+            <p>Firſt; <note place="margin">
+                  <hi>Vſe</hi> 1. Of informati<g ref="char:EOLhyphen"/>on.</note> It <hi>informes</hi> us, of the <hi>reaſon,</hi> why the <hi>Lord</hi> hath <hi>no more ſervants,</hi> to wait upon him, and doe his worke. The <hi>world,</hi> and <hi>ſin,</hi> have abundance, but the <hi>Lord</hi> very few; eſpecially of thoſe that will wear an <hi>in tire coat</hi> without ſeame, or that will venture upon any <hi>hot piece</hi> of ſervice, if they be put upon it; here is the true ground of it, they doubt whether the <hi>ſervice of God,</hi> be not a <hi>vaine ſervice,</hi> and whether there be, as <hi>good wages,</hi> to be had, for doing of <hi>Gods work,</hi> as they have, from thoſe <hi>Maſters,</hi> whom <hi>[now]</hi> they ſerve, and whoſe worke they do.</p>
+            <p>Secondly, <hi>It informs</hi> us, of the ground, of ſo much <hi>lukewarmneſſe,</hi> and indiffe<g ref="char:EOLhyphen"/>rency,
+<pb n="51" facs="tcp:38073:40"/>as is in many that are, or ſeeme to be, the ſervants of God; why? they <hi>ſlubber</hi> over the Lords work, and are ſo <hi>ſlighty</hi> in his ſervice, <hi>offering him ſacrifice, of that which doth coſt them little, or nothing;</hi> as in praying, hea<g ref="char:EOLhyphen"/>ring, and the like; as if it were no great matter, whe<g ref="char:EOLhyphen"/>ther they prayed, or not prayed, whether they heard, or not heard, whe<g ref="char:EOLhyphen"/>ther they ſtood, and ap<g ref="char:EOLhyphen"/>peared for God, or diſſem<g ref="char:EOLhyphen"/>bled it; eſpecially, if it come to this, that they cannot fol<g ref="char:EOLhyphen"/>low, and ſerve God, but it muſt coſt them dear.</p>
+            <p>Indeed, many can be con<g ref="char:EOLhyphen"/>tent to keep Gods ſervice, doe Gods work, and pro<g ref="char:EOLhyphen"/>feſſe religion, ſo long as this profeſſion, and ſervice, will
+<pb n="52" facs="tcp:38073:41"/>
+               <hi>maintaine them;</hi> but if it comes to this, that they muſt <hi>maintaine their ſervice,</hi> and they cannot profeſſe, and follow God, but it will <hi>coſt them</hi> their eſtates, cre<g ref="char:EOLhyphen"/>dits, liberties, or lives, then they ſhrinke: and here's the reaſon, they make a queſti<g ref="char:EOLhyphen"/>on, [if they ſhould diſburſe ſo much for God, and in his ſervice] whether ever they ſhould ſee their own again, and not be <hi>loſers,</hi> by the bargaine. This makes them ſo backward to <hi>enter upon</hi> ſome worke, that God puts them upon, and <hi>ſo ſligh<g ref="char:EOLhyphen"/>ty</hi> in that which they doe, <label type="milestone">
+                  <seg type="milestoneunit">Simil. </seg>
+               </label> That as they that work for <hi>bad pay-Maſters,</hi> when their work is faulted, are ready to anſwer, why? tis even well enough, unleſſe I were like
+<pb n="53" facs="tcp:38073:41"/>to be <hi>paid better</hi> for it, then I am; ſo doe they here; ſu<g ref="char:EOLhyphen"/>ſpecting the ſervice of God, for a <hi>vain ſervice,</hi> they think the work done in it, to bee <hi>well enough,</hi> how <hi>ſlighty</hi> ſo<g ref="char:EOLhyphen"/>ever; whereas, did they <hi>be<g ref="char:EOLhyphen"/>lieve</hi> otherwiſe, and the <hi>truth</hi> of thoſe <hi>promiſes</hi> of God,
+<note place="margin">1 <hi>Cor.</hi> 15.58.</note> for his bountifull <hi>re<g ref="char:EOLhyphen"/>warding</hi> of ſuch as are his <hi>ſervants,</hi> it would make them <hi>fruitfull,</hi> and <hi>painfull</hi> in his ſervice.</p>
+            <p>Thirdly, It <hi>informes</hi> us, of the ground, of ſo much <hi>A<g ref="char:EOLhyphen"/>poſtacy,</hi> and backſliding from God, why ſo many of his <hi>diſciples, and ſervants go a<g ref="char:EOLhyphen"/>way,</hi> and fall off daily; Yea many ancient ſtanding pro<g ref="char:EOLhyphen"/>feſſors, that ſeemed to have been good, and faithfull ſer<g ref="char:EOLhyphen"/>vants, and to have done God
+<pb n="54" facs="tcp:38073:42"/>much good work; yet <hi>(now)</hi> after a long time, they car<g ref="char:EOLhyphen"/>ry the Lord his <hi>livery</hi> home againe, and will weare it no longer, nor follow him any further, but are now for a <hi>new Maſter,</hi> and <hi>that</hi> ſuch a one as <hi>the times</hi> will ſerve them to follow, and ſerve without danger. The ground hereof, is clearly this, they thinke to <hi>mend</hi> themſelves, and to take a courſe, that will be <hi>more pro<g ref="char:EOLhyphen"/>fitable, then</hi> this ſervice would be, if they ſhould continue it.</p>
+            <p>But as <hi>Moſes,</hi> 
+               <note place="margin">
+                  <hi>Heb.</hi> 11.25, 26, 27.</note> endured many, and great afflictions, <hi>ſeeing him</hi> [by faith] <hi>who is inviſible</hi> to ſence; ſo, had people hearts, and faith to beieeve the truth of Gods promiſes, and the profita<g ref="char:EOLhyphen"/>bleneſſe
+<pb n="55" facs="tcp:38073:42"/>of his ſervice, all the world could not be able to hire them out of it, nor a<g ref="char:EOLhyphen"/>ny thing in it beat them off, or any whit diſcourage them. But I would earneſt<g ref="char:EOLhyphen"/>ly deſire theſe people, that are <hi>backeſliders</hi> from God, to conſider, how wonder<g ref="char:EOLhyphen"/>fully they <hi>provoke</hi> the Lord to diſpleaſure, who thus turne their backs upon him, and give over his ſervice: and indeed, there is juſt cauſe, that the Lord ſhould be ſore diſpleaſed: For ſuch a one proclaimes to all the world (in effect) that hee hath found a <hi>better ſervice</hi> then the Lord's; <note place="margin">
+                  <hi>Hoſ.</hi> 2.5.</note> and that it is <hi>better</hi> to ſerve <hi>ſinne,</hi> the <hi>world,</hi> and the <hi>Devill,</hi> then to ſerve <hi>God;</hi> and doth, as if he ſhould ſay; well <hi>friends</hi>
+               <pb n="56" facs="tcp:38073:43"/>heare me, and know my judgement, <hi>Time was,</hi> when I was a ſlave to my luſt, and the world, and had no heart, to any of the duties of God's ſervice, I never cared for prayer, the word, nor any ſuch thing; and ſo I ſpent my twenty, or thirty firſt yeares; And <hi>afterward,</hi> (I know not how) going to ſuch a place, where there was a Sermon, I could not chooſe but goe in, and in hearing my conſcience be<g ref="char:EOLhyphen"/>ing much ſtird) I was brought to take <hi>another courſe,</hi> and then I gave my ſelfe to pray, heare, read, and the like, and to pro<g ref="char:EOLhyphen"/>feſſe religion; and thus I have held thus many years; So that I have <hi>tryed both ma<g ref="char:EOLhyphen"/>ſters,</hi> and tryed both ſervi<g ref="char:EOLhyphen"/>ces;
+<pb n="57" facs="tcp:38073:43"/>and now I <hi>proclaime</hi> to all the world, that I judge, the ſervice of <hi>ſin,</hi> and of the <hi>Devill,</hi> to be <hi>better</hi> then the <hi>Lord's</hi> ſervice; for I thinke this, to be but <hi>a vaine ſervice;</hi> and therefore, I leave it, and turne (as I hope) to <hi>mend</hi> my ſelfe. Now muſt not the Lord needs, take this <hi>very ill,</hi> at the hands of <hi>ſuch,</hi> as ſhall thus <hi>diſparage</hi> his ſer<g ref="char:EOLhyphen"/>vice in this manner.</p>
+            <p>
+               <note place="margin">
+                  <hi>Vſe</hi> 2. Of reproofe.</note>The <hi>ſecond</hi> uſe is for <hi>re<g ref="char:EOLhyphen"/>proofe.</hi> Firſt, to ſuch as not onely <hi>think</hi> thus, that the ſervice of God i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in <hi>vaine,</hi> that a man is never the <hi>bet<g ref="char:EOLhyphen"/>ter</hi> for it, but <hi>judge</hi> it ſo <hi>evill,</hi> and conceive a man is much the <hi>worſe;</hi> as thoſe in <hi>Ioſhua,</hi> to whom <hi>it ſeemed evill to ſerve the Lord;</hi> ſo ſome think, <note place="margin">
+                  <hi>Ioſh.</hi> 24.15.</note> that ſuch as give themſelves
+<pb n="58" facs="tcp:38073:44"/>to pray, and mourne for their ſins, that are zealous for God, and forward in the profeſſion of religion are the <hi>worſe;</hi> worſe in their <hi>health,</hi> worſe in their <hi>eſtates,</hi> worſe in their <hi>wits,</hi> and the like. Theſe are a degree above the ordinary ſort, of wicked people, and ſhal fare thereafter: of which ſee, <hi>Iude,</hi> 15. for God ſhall come one day to <hi>execute judgement upon ungodly men,</hi> not onely for all their <hi>ungodly deeds,</hi> but for all their <hi>hard ſpeeches</hi> [al<g ref="char:EOLhyphen"/>ſo] which they have ſpoken againſt him.</p>
+            <p>Secondly, It is of <hi>Reproof,</hi> to ſuch as are guilty of this ſinne, in the Text.</p>
+            <p>And of this ſort are many, and multitudes, even of thoſe that (in a formall
+<pb n="59" facs="tcp:38073:44"/>manner) doe performe ma<g ref="char:EOLhyphen"/>ny ſervices that the Lord requires; that doe hear, pray, and profeſſe; and yet in their <hi>hearts,</hi> have but <hi>meane,</hi> and <hi>low thoughts</hi> of thoſe duties of <hi>Gods ſervice;</hi> and looke upon the labour, and paines taken in it, as loſt, and in <hi>vaine.</hi>
+            </p>
+            <p>Let theſe know, that <hi>they</hi> are guilty of a <hi>ſinne,</hi> which the <hi>Devill</hi> himſelfe was free from. He ſaid, <note place="margin">
+                  <hi>Iob.</hi> 1.9.</note> that <hi>Iob did not ſerve God for nought;</hi> yet theſe thinke the ſervice of God to be vaine, and fruit<g ref="char:EOLhyphen"/>leſſe: <hi>but</hi> howſoever, it is a <hi>deſperate ſigne</hi> of a carnall heart, and a <hi>black brand</hi> ſet upon the <hi>wicked,</hi> by the hand of the ſpirit of God, where<g ref="char:EOLhyphen"/>by <hi>all</hi> the world may know them to be wicked, where<g ref="char:EOLhyphen"/>ever
+<pb n="60" facs="tcp:38073:45"/>they find it; And they <hi>themſelves,</hi> may know them<g ref="char:EOLhyphen"/>ſelves ſo to be, much more; let them be otherwiſe, ne<g ref="char:EOLhyphen"/>ver ſo faire, and formall, yet if they finde this in them<g ref="char:EOLhyphen"/>ſelves, it may be conviction enough unto them, that their hearts are carnall, and their conditions deſperate. If any body ſhould goe, and raiſe a report upon you that are Maſters, and give <hi>great wages,</hi> that you gave your ſervants <hi>no wages;</hi> would you take it well at their hands? Yet thus doe you <hi>report</hi> of Gods ſervice; at leaſt by your <hi>practice;</hi> by your <hi>omitting</hi> of that which God commands, and by your <hi>committing</hi> of that which God forbids, you proclaime, the ſervice of
+<pb n="61" facs="tcp:38073:45"/>God, to be nothing worth.</p>
+            <p>But ſuppoſe one ſhould aske you, <hi>how</hi> you can tel that it is in vaine to ſerve God? you never <hi>tryed</hi> to purpoſe, what it was to ſerve him in <hi>ſincerity.</hi> If a man ſhould go and report (as be<g ref="char:EOLhyphen"/>fore) that you made your ſervants work for nothing, you would ſay, <hi>how</hi> can you tell that, ſeeing you never <hi>tryed</hi> my ſervice? ſo may I ſay to ſuch as complaine of the ſervice of God, to be a <hi>vaine ſervice, how</hi> can you tel it is ſo, ſeeing you never made <hi>tryall</hi> of it, upon your own experience? and there<g ref="char:EOLhyphen"/>fore you are guilty of <hi>ſpea<g ref="char:EOLhyphen"/>king evill of the things which you underſtand not.</hi>
+               <note place="margin">2 <hi>Pet.</hi> 2.12</note>
+            </p>
+            <p>Thirdly, it is of uſe (by way of inference) to the
+<pb n="62" facs="tcp:38073:46"/>people of God: For if it be a fault in <hi>carnall</hi> people, much more in ſuch as are <hi>ſpirituall;</hi> and yet many of theſe are much to blame, e<g ref="char:EOLhyphen"/>ven about this very thing; having <hi>ſtrange thoughts</hi> a<g ref="char:EOLhyphen"/>bout the <hi>vanity</hi> of <hi>Gods</hi> ſer<g ref="char:EOLhyphen"/>vice; &amp; that upon grounds, both from themſelves, and others.</p>
+            <p n="1">1. From <hi>themſelves;</hi> and they are two. The <hi>one</hi> is, the <hi>non-apprehenſion</hi> of any <hi>good</hi> gotten by that ſervice that they ever did for God. The <hi>other</hi> is, that <hi>indiſcerna<g ref="char:EOLhyphen"/>ble difference</hi> [in them<g ref="char:EOLhyphen"/>ſelves,] betweene <hi>ſerving,</hi> and <hi>not ſerving</hi> of God, <hi>per<g ref="char:EOLhyphen"/>forming,</hi> and <hi>omitting</hi> the duties of Gods ſervice.</p>
+            <p>For the better ſetling of the people of God, in his
+<pb n="63" facs="tcp:38073:46"/>wayes, and ſervice; theſe grounds of their miſtakings, muſt be removed, and their <hi>objections anſwered;</hi> or elſe, it is not the bare <hi>chiding</hi> of them, or laying of <hi>blame</hi> up<g ref="char:EOLhyphen"/>on them, that will pacifie the Soul, or ſatisfie doubts, and ſcruples.</p>
+            <p>And therefore I ſhall en<g ref="char:EOLhyphen"/>deavour to remove theſe lets, and to anſwer theſe ob<g ref="char:EOLhyphen"/>jections.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>1</label> Firſt then, the ſoul ſaith, what ſhould I do ſerving of God, <note place="margin">2 <hi>King</hi> 6.33.</note> or <hi>waiting upon the Lord any longer?</hi> I have ſpent a great deale of <hi>time,</hi> and taken a great deal of <hi>paines,</hi> that way; but I doe not ſee, that I am the <hi>better</hi> for any thing that I have done; as <hi>theſe people,</hi> here, though they had offered <hi>many ſacri<g ref="char:EOLhyphen"/>fices,</hi>
+               <pb n="64" facs="tcp:38073:47"/>yet afterward, began to look upon them, as <hi>caſt a<g ref="char:EOLhyphen"/>way:</hi> We have offered many cattel, and creatures in ſa<g ref="char:EOLhyphen"/>crifice (ſay they,) but wee had better have ſold them, and laid out the money ſome other way for our comfortable ſubſiſtence: So ſaith many a Soule, what ſhall I doe? I have prayed, and mourned, but <hi>nothing the better;</hi> my <hi>Prayers</hi> are not let into heaven, but ſhut out; my <hi>almes</hi> are not had in remembrance before God, but forgotten; my <hi>teares are</hi> ſpilt, and not bottled up; my <hi>wants</hi> are not ſupplyed, my <hi>deſires</hi> are not anſwered, my <hi>corruptions</hi> are not mor<g ref="char:EOLhyphen"/>tified: I have taken <hi>much</hi> paines in attending upon the ordinances of God, but have
+<pb n="65" facs="tcp:38073:47"/>got <hi>little,</hi> or no good by them: And not only <hi>ordina<g ref="char:EOLhyphen"/>ry,</hi> but <hi>extraordinary</hi> means have I uſed; I have joyned <hi>faſting</hi> to my prayers, and yet <hi>all</hi> will doe <hi>nothing;</hi> I was amongſt the people of God ſuch a day, and ſuch a day, in the duties of humi<g ref="char:EOLhyphen"/>liation; but, alas! I was <hi>ne<g ref="char:EOLhyphen"/>ver the better;</hi> my heart was as hard at night, as it was in the morning: ſo that I had <hi>better</hi> have been about my calling, or the world; for there I might have done, or got <hi>ſome good</hi> for the <hi>body,</hi> but here I got <hi>no good,</hi> either for <hi>body,</hi> or <hi>ſoule;</hi> there I might have done ſome <hi>good</hi> to <hi>others,</hi> but here <hi>no body</hi> hath been the <hi>better</hi> for me, but (for ought I know) ra<g ref="char:EOLhyphen"/>ther the worſe; It may be I
+<pb n="66" facs="tcp:38073:48"/>have been a <hi>Ionah,</hi> or an <hi>A<g ref="char:EOLhyphen"/>chan,</hi> amongſt Gods people, to provoke the Lord to diſ<g ref="char:EOLhyphen"/>pleaſure, and to cauſe him to withhold that mercy, from that <hi>Aſſembly</hi> I joyned with, which <hi>they</hi> might have had, if <hi>J</hi> had been from a<g ref="char:EOLhyphen"/>mongſt them: but however, I have <hi>deluded others,</hi> and play'd the <hi>hypocrite,</hi> ſeeming better then I am, and fit to be amongſt Gods people, which I was not; &amp; have har<g ref="char:EOLhyphen"/>dened my heart, and am (to be ſure) never the <hi>better,</hi> if not much the <hi>worſe.</hi>
+            </p>
+            <p>Theſe, and the like com<g ref="char:EOLhyphen"/>plaints, are commonly made by the people of God, as if his <hi>ſervice</hi> were indeed altogether <hi>vaine.</hi> To this I <hi>anſwer</hi> divers wayes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> That the ſervice of God,
+<pb n="67" facs="tcp:38073:48"/>which a Soul does, may be may be profitable to <hi>others,</hi> though for the preſent, or in his own apprehenſion, little, or nothing ſo, to it <hi>ſelfe.</hi>
+            </p>
+            <p>For the Acts, or parts of Gods ſervice, are of <hi>divers kinds.</hi>
+            </p>
+            <p>
+               <hi>Some,</hi> in which the <hi>Lord,</hi> and maſter himſelf hath the <hi>chiefeſt hand,</hi> he being eſpe<g ref="char:EOLhyphen"/>cially the <hi>Agent,</hi> and <hi>we pati<g ref="char:EOLhyphen"/>ents:</hi> as hearing the word, receiving the ſacrament, and duties of that nature.</p>
+            <p>
+               <hi>Other ſome</hi> againe, there are, in which <hi>man</hi> is more ſaid to be an <hi>Agent,</hi> then in the for<g ref="char:EOLhyphen"/>mer; As in prayer, workes of charity, taking up the croſſe, and the like.</p>
+            <p>Now its true, for the <hi>firſt,</hi> if a ſoul gets <hi>no good</hi> at them <hi>[it ſelfe,]</hi> at the word, at the ſa<g ref="char:EOLhyphen"/>crament
+<pb n="68" facs="tcp:38073:49"/>and the reſt of that kind, <hi>That ſervice,</hi> is like to be <hi>in vaine altogether.</hi> But for the <hi>latter,</hi> it will not hold, <hi>viz.</hi> in <hi>ſufferings for Chriſt,</hi> and the like, though a man may <hi>ſeeme</hi> to have loſt, not his <hi>labour</hi> onely, but much other wayes, in his <hi>eſtate, credit, liberty,</hi> and the like, (in ſo much, that he may <hi>ſuffer the ſpoyling of all his goods,</hi> and himſelfe dye in the Gaole,) yet this <hi>ſervice may not be in vaine;</hi> For (be<g ref="char:EOLhyphen"/>ſides his <hi>own</hi> gaine in ſpiri<g ref="char:EOLhyphen"/>tuall reſpects) the <hi>Church</hi> of God may have more light, and liberty hereby, in after times.</p>
+            <p>Alſo of <hi>prayer,</hi> and ſee<g ref="char:EOLhyphen"/>king the Lord, the like may be ſaid: for, as the Apoſtle ſaith, <note place="margin">2 <hi>Cor.</hi> 12.14.</note> that <hi>the parents lay up
+<pb n="69" facs="tcp:38073:49"/>for the Children;</hi> ſo doth <hi>one</hi> Chriſtian for <hi>another.</hi> For theſe duties, are properly compar'd to <hi>ſowing of ſeed:</hi> and Chriſt ſaith, <hi>one ſoweth, <note place="margin">
+                     <hi>Joh.</hi> 4.37.</note> and another reapeth.</hi> And I doubt not, but many a chri<g ref="char:EOLhyphen"/>ſtian, and parent, hath <hi>pray<g ref="char:EOLhyphen"/>ers</hi> hanging upon Gods file in heaven, <hi>unanſwered,</hi> (for their Children and the Church of God) though made long agoe; ſo that, [that] may ſeeme to be <hi>la<g ref="char:EOLhyphen"/>bour loſt</hi> that was taken that way: But yet as <hi>Ahaſuerus,</hi> 
+               <note place="margin">
+                  <hi>Eſter</hi> 6.1.</note> call'd for the <hi>Records</hi> after a certaine time, and finding there, ſuch a piece of <hi>ſervice</hi> done by <hi>Mordecai,</hi> not <hi>yet</hi> re<g ref="char:EOLhyphen"/>warded, he <hi>forthwith</hi> gave him wages for his work, and bountifully rewarded him: So the Lord (in his <hi>due time</hi>)
+<pb n="70" facs="tcp:38073:50"/>will look over his files, (as I may ſo ſpeak) and finding the <hi>parents</hi> prayers (made for the <hi>childe</hi>) and the <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> prayers (made for the <hi>Church</hi> of God) hanging ſtill <hi>unanſwered,</hi> he will undoub<g ref="char:EOLhyphen"/>tedly <hi>return</hi> them an anſwer <hi>in a time accepted.</hi>
+            </p>
+            <p>And becauſe a parent, or a chriſtian does not receive an anſwer hereof <hi>(preſently,)</hi> or wages for his work in the ſervice of the Lord, or <hi>live to ſee</hi> others the better for it, ſhall he therefore conclude, It is <hi>a vaine ſervice;</hi> or the work a vaine work? <label type="milestone">
+                  <seg type="milestoneunit">Simil. </seg>
+               </label> When a man hath beene at paines, &amp; coſt in <hi>tilling,</hi> &amp; <hi>ſowing</hi> of his ground, though hee doth not live to the <hi>harveſt,</hi> to reape the crop <hi>himſelfe,</hi> yet wil he not account his <hi>labour
+<pb n="71" facs="tcp:38073:50"/>loſt,</hi> becauſe he can make his <hi>will</hi> of it; and his <hi>heires, exe<g ref="char:EOLhyphen"/>cutors,</hi> and ſuch as he doth intirely love, ſhall be the <hi>better</hi> for it. Even ſo it is here, The <hi>Church</hi> may be the <hi>better, others</hi> the <hi>better</hi> for thy labour; And therefore this work and ſervice, is not to be accounted vaine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>2</label> Secondly, I anſwer, that the Lord doth not alwayes pay his ſervants wages for the work they doe him, <hi>[in ready mony]</hi> (as they uſe to ſay,)
+<label type="milestone">
+                  <seg type="milestoneunit">Simil. </seg>
+               </label> but many times by way of <hi>exchange,</hi> giving of them ſomething in <hi>liew,</hi> yet al<g ref="char:EOLhyphen"/>wayes for the <hi>beſt</hi> unto them. Even as you pay your <hi>workmen,</hi> when they have wrought with you, and done you ſervice, you doe not pay them (it may be) in
+<pb n="72" facs="tcp:38073:51"/>
+               <hi>ready mony,</hi> gold, ſilver, and the like; but with ſuch <hi>com<g ref="char:EOLhyphen"/>modities,</hi> as they ſtand in great need of, which hap<g ref="char:EOLhyphen"/>pily are ſcarce, and rare, and ſuch as they could <hi>not buy</hi> with their <hi>money,</hi> if they had had their wages paid them therein. Now if theſe <hi>ſer<g ref="char:EOLhyphen"/>vants</hi> ſhould goe away, and <hi>exclaime</hi> on you, and on your ſervice, that, becauſe you did not pay them in ready money, as they expe<g ref="char:EOLhyphen"/>cted; they ſhould therefore ſay, that <hi>your ſervice were a vaine ſervice,</hi> and that they had wrought with you for nothing, and the like, would you take this well at their hands?</p>
+            <p>Why? yet, thus doſt thou deale by the Lord; Thou attendeſt upon God in du<g ref="char:EOLhyphen"/>ties,
+<pb n="73" facs="tcp:38073:51"/>and ordinances; in hea<g ref="char:EOLhyphen"/>ring, praying, and the like; and thou doſt him ſome ſer<g ref="char:EOLhyphen"/>vice: Now, thou expecteſt to be paid down at the <hi>ſtub</hi> (as it were) <hi>in ready money.</hi> That is to ſay, thou lookeſt to grow in parts, as, in knowledge, in quick appre<g ref="char:EOLhyphen"/>henſion, and ability of ex<g ref="char:EOLhyphen"/>preſſion in conference, or prayer, as others doe: and becauſe thou doſt not ſo, thou art ready to <hi>complaine,</hi> that this <hi>ſervice of God is vaine,</hi> and that thou haſt but loſt thy labour therein: Whereas, it may be, the <hi>Lord</hi> hath given thee, <hi>ſome<g ref="char:EOLhyphen"/>thing in ſtead of theſe,</hi> which is better and daintier, and which thou couldſt not have purchaſed with theſe, if thou hadſt never ſo much of
+<pb n="74" facs="tcp:38073:52"/>them. For inſtance, it may be he hath given thee <hi>a ten<g ref="char:EOLhyphen"/>der conſcience,</hi> and an hum<g ref="char:EOLhyphen"/>ble heart, inſtead of thoſe other which thou didſt ex<g ref="char:EOLhyphen"/>pect.</p>
+            <p>Well; if he hath thus paid thee, I tell thee, he hath done thee <hi>no wrong:</hi> For theſe are things which thou couldſt not have purchaſed with thy parts; were they never ſo great and high.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>3</label> Thirdly, I anſwer, that thou canſt not conclude, that the <hi>ſervice of God is in vaine,</hi> though thou <hi>thinkeſt</hi> thy ſelfe never the better, or <hi>(as yet)</hi> beeſt never the better, for the <hi>preſent;</hi> un<g ref="char:EOLhyphen"/>leſſe alſo, thou art able to conclude, that thou <hi>never ſhalt</hi> be the better hereafter neither; which I am ſure,
+<pb n="75" facs="tcp:38073:52"/>thou canſt not poſſibly doe.</p>
+            <p>Suppoſe thy prayers <hi>(as yet)</hi> be not anſwered; art thou ſure that they <hi>never ſhall</hi> be anſwered? though thy corruptions, be <hi>not yet</hi> ſubdued, nor Satan <hi>(as yet)</hi> troden under foot, how doſt thou know, that they never ſhall?</p>
+            <p>Nay how doſt thou know, but that <hi>this delay,</hi> may bee fully <hi>ſatisfied for,</hi> when the Lords time is <hi>fully</hi> come.</p>
+            <p>We find how <hi>Moſes</hi> ſpeaks to the people of the Lord in this manner;
+<note place="margin">
+                  <hi>Deut.</hi> 8.15 16.</note> 
+               <hi>who led thee through that great, and terri<g ref="char:EOLhyphen"/>ble wilderneſſe, wherein were ſiery Serpents, and Scorpions, and drought, where there was no water,</hi> &amp;c. <hi>that hee might humble thee, and that he might prove thee, to doe thee good at
+<pb n="76" facs="tcp:38073:53"/>thy latter end.</hi> Mark that phraſe well <hi>[at thy latter end]</hi> which imports the <hi>time</hi> of Gods ſhewing mercy to ma<g ref="char:EOLhyphen"/>ny, even of his own people, that they ſhall not have the good of Gods preſent dea<g ref="char:EOLhyphen"/>lings with them, <hi>till their lat<g ref="char:EOLhyphen"/>ter end.</hi>
+            </p>
+            <p>It may be, before this Meſ<g ref="char:EOLhyphen"/>ſage came from the Lord to this people, they began to <hi>repent</hi> them in part, of what they had done, in following of <hi>Moſes,</hi> and putting them<g ref="char:EOLhyphen"/>ſelves upon ſo many hard<g ref="char:EOLhyphen"/>ſhips, and think all to be but <hi>labour loſt,</hi> and their ſervice in obeying the Lords com<g ref="char:EOLhyphen"/>mands to be in vaine; but now they <hi>are anſwered,</hi> and taken off from this, hearing that the <hi>time</hi> of their reward was not yet come, but that
+<pb n="77" facs="tcp:38073:53"/>verily it would come, and that without faile; to wit, <hi>in the latter end.</hi>
+            </p>
+            <p>So then, it's clear that a ſoul in obeying God, and in doing him ſervice, may bee led through a <hi>wilderneſſe,</hi> where it may meet with ſer<g ref="char:EOLhyphen"/>pents, ſcorpions, drought, and a great deale of hard<g ref="char:EOLhyphen"/>ſhip, and be <hi>much diſappoin<g ref="char:EOLhyphen"/>ted</hi> in its expectation, and deſires: And yet the <hi>Lord,</hi> may <hi>intend it good at the laſt,</hi> and plentifully reward it, for all the ſervice it doth for him. And therefore, let not any complaine <hi>till</hi> they have cauſe; <note place="margin">Pſ. 9.18</note> 
+               <hi>The patient abi<g ref="char:EOLhyphen"/>ding of the meek ſhall not periſh for ever;</hi> And, <note place="margin">Pſ. 58.11.</note> 
+               <hi>verily there is a reward for the righteous;</hi> And, <hi>Yet a little while, <note place="margin">
+                     <hi>Heb.</hi> 
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.37.</note> and he that ſhall come will come,
+<pb n="78" facs="tcp:38073:54"/>and will not tarry.</hi>
+            </p>
+            <p>Have you never heard it rumor'd and reported, very commonly, and confident<g ref="char:EOLhyphen"/>ly, that ſuch, or ſuch <hi>a ſhip</hi> hath been quite caſt away and <hi>loſt;</hi> and yet that <hi>ſhip</hi> hath come home afterwards <hi>richly laden.</hi> So tis oft' in Prayer, and other duties; and therefore be not over<g ref="char:EOLhyphen"/>much diſcouraged, though you enjoy not the <hi>preſent</hi> fruit of your labours? <hi>in due time, <note place="margin">
+                     <hi>Gal.</hi> 6.9</note> you ſhall reap if you faint.</hi>
+            </p>
+            <p>And thus far in anſwer to theſe thoughts, and objecti<g ref="char:EOLhyphen"/>ons, that are in the people of God, from the <hi>firſt ground</hi> in <hi>themſelves.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>2</label> The <hi>ſecond ground</hi> of this Feare followes, to be an<g ref="char:EOLhyphen"/>ſwered: Namely; That <hi>in<g ref="char:EOLhyphen"/>diſcernable
+<pb n="79" facs="tcp:38073:54"/>difference</hi> that is in <hi>themſelves,</hi> betweene their <hi>ſerving, and not ſerving</hi> of God:</p>
+            <p>The Soul ſaith, ſurely, I cannot perceive that I am a<g ref="char:EOLhyphen"/>ny whit <hi>the better,</hi> for all the ſervice that I have done to the Lord; For all my Pra<g ref="char:EOLhyphen"/>yers, hearing, chriſtian com<g ref="char:EOLhyphen"/>munion and the like; I am <hi>as well,</hi> when I <hi>omit</hi> ſerving of him, or when I am <hi>ſlighty</hi> in his ſervice, as when I ſerve him <hi>moſt,</hi> and <hi>beſt</hi> of all; I proſper <hi>as well</hi> in my buſi<g ref="char:EOLhyphen"/>neſſe, and returne <hi>as ſafe</hi> home from my journey, when I ſet forth without ſeeking direction from the Lord, as when I do ſeek him before I goe out; <hi>I ſleepe as ſweetly,</hi> when <hi>I</hi> goe to bed without Prayer, as when <hi>I</hi>
+               <pb n="80" facs="tcp:38073:55"/>do pray; and ſo for other particulars: Therefore this ſerving of the Lord, ſeemes to be vaine.</p>
+            <p>To this alſo I anſwer di<g ref="char:EOLhyphen"/>vers wayes. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> Firſt, That it is <hi>a ſad thing,</hi> that any of Gods people, ſhould, <hi>Try, and Tempt him</hi> in this manner; to doe, as if they ſhould ſay, Ile ſee what the Lord will doe for me with<g ref="char:EOLhyphen"/>out asking, and the like; that any who have <hi>taſted how gracious the Lord hath beene</hi> unto them, in a duty, or ordinance, that, they ſhould in the leaſt degree, <hi>willingly omit</hi> ſuch a duty a<g ref="char:EOLhyphen"/>gaine, and that they ſhould (to ſpeak after the manner of men) <hi>diſappoint</hi> the Lord thus. That when the <hi>Lord</hi> ſhall goe into thy Chamber,
+<pb n="81" facs="tcp:38073:55"/>or <hi>Cloſet;</hi> at the uſuall <hi>time</hi> of Prayer, with his <hi>eare</hi> open to the Prayer, that thou hadſt need to make him, that (then) thou ſhouldeſt not be there; but he muſt be forced to turne himſelfe away, miſſing whom hee looked for: That when the Lord <hi>bringeth mercy</hi> in his hand (as it were) to beſtow upon thee, that thou ſhouldſt not be there to <hi>receive</hi> it, but he muſt be forced to carry his mercy back againe with him; and when he bringeth his <hi>bottle</hi> to put up thy <hi>tears,</hi> thou ſendeſt him <hi>empty</hi> a<g ref="char:EOLhyphen"/>way? This I ſay is a very ſad thing.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>2</label> But ſecondly I anſwer, that if there be <hi>no diffe<g ref="char:EOLhyphen"/>rence</hi> in thine <hi>outward</hi> man, in thy eſtate, body, name,
+<pb n="82" facs="tcp:38073:56"/>and the like; yet there may be <hi>great difference</hi> in thine <hi>inner man,</hi> and ſoul; and I dare ſay, there is ſo.</p>
+            <p>Doth not thy <hi>neglect</hi> of duty, beget a <hi>diſlike</hi> of duty? doth no <hi>diſuſe</hi> in Gods ſer<g ref="char:EOLhyphen"/>vice, breed an <hi>aukneſſe,</hi> and an indiſpoſition thereto.</p>
+            <p>I doubt not, but, if the heart be well obſerved, it will be acknowledged, that this is true, that it is thus; And is this nothing?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>3</label> Thirdly, I would demand of thoſe, that ſay, they can find <hi>no difference</hi> in them<g ref="char:EOLhyphen"/>ſelves, between the time when they <hi>ſerve</hi> the Lord, and when they do <hi>not ſerve</hi> him, whether they doe, <hi>ne<g ref="char:EOLhyphen"/>ver at no time</hi> find any dif<g ref="char:EOLhyphen"/>ference?</p>
+            <p>
+               <hi>Sometimes</hi> (it may be) you
+<pb n="83" facs="tcp:38073:56"/>find <hi>little</hi> or <hi>no difference,</hi> the Lord meets you not in du<g ref="char:EOLhyphen"/>ties, but you go away emp<g ref="char:EOLhyphen"/>ty, with hardneſſe in your hearts, and blackneſſe in your boſomes, and the like; (as you conceive:) But is it <hi>[alwayes]</hi> thus? are you <hi>ne<g ref="char:EOLhyphen"/>ver</hi> anſwered in the joy of your ſoules? does the Lord <hi>never</hi> give you a good look, nor ſhew you a pleaſed face? If you have <hi>any,</hi> 
+               <note place="margin">
+                  <hi>Joh.</hi> 15.11.</note> ſlight them not: <hi>are the conſolations of God ſmall unto you?</hi>
+            </p>
+            <p>Or if you have <hi>none,</hi> yet, that thou art <hi>upheld</hi> in the way, and in the work of the Lord, to <hi>go on</hi> in his ſervice, even this very thing is a <hi>great mercy;</hi> and is very like to be the <hi>fruit,</hi> and wages for the <hi>former work,</hi> and ſer<g ref="char:EOLhyphen"/>vice thou haſt done him.
+<pb n="84" facs="tcp:38073:57"/>And it is all one, whether the Lord doth give the ſoul what it would have <hi>preſent<g ref="char:EOLhyphen"/>ly,</hi> or ſtrength to <hi>perſevere</hi> in his wayes, till he doth meet, and anſwer it.</p>
+            <p>Of the <hi>two,</hi> the <hi>laſt</hi> is rather the <hi>beſt,</hi> becauſe the ſoule honours God <hi>moſt</hi> by this.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>4</label> Laſtly conſider, if thou haſt ſuch, and ſuch things, (gifts or parts) in <hi>as full a meaſure</hi> when thou doſt <hi>not</hi> ſerve God, as when thou <hi>doſt</hi> ſerve him moſt exactly, yet thou canſt not look upon them, as ſuch <hi>ſpeciall mercies,</hi> if they come not in the way of <hi>ſeeking</hi> and ſerving God. <note place="margin">Pſal. 69.22</note> The very <hi>table of wicked men is made their ſnare,</hi> 
+               <note place="margin">Prov. 1.32</note> &amp; <hi>the pro<g ref="char:EOLhyphen"/>ſperity of fooles ſhall ſlay them.</hi>
+            </p>
+            <p n="2">2. There be alſo <hi>thoughts</hi> in the hearts of <hi>Gods people,</hi>
+               <pb n="85" facs="tcp:38073:57"/>about the <hi>vanity of Gods ſervice,</hi> ariſing from ſome ground in <hi>others;</hi> for thus they reaſon; <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label>
+               <hi>Thoſe</hi> that have <hi>no care</hi> at all to ſerve God, or to attend upon the duties of his worſhip, yet they ſeeme to ſpred, and to <hi>fare as well,</hi> as thoſe that ſerve him <hi>moſt,</hi> and <hi>beſt</hi> of all; and therefore the <hi>ſerving of God ſeemes to be in vaine.</hi>
+            </p>
+            <p>To this alſo divers an<g ref="char:EOLhyphen"/>ſwers may be made. <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>1</label> As firſt; that there is <hi>much diffe<g ref="char:EOLhyphen"/>rence</hi> in the <hi>maine,</hi> and in that which ought <hi>moſt</hi> to be regarded: Though they may ſeeme to be as well in their <hi>outward condition,</hi> and for their <hi>body,</hi> yet not with their <hi>ſoules;</hi> for, they are not in Gods wayes, nor in the Road of his <hi>beſt mercies.</hi>
+            </p>
+            <pb n="86" facs="tcp:38073:58"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>2</label> Secondly, that even thoſe <hi>outward, and common mercies</hi> (which they have, who doe not ſerve the Lord but are careleſſe therein) may bee the fruit of <hi>[others] ſerving the Lord, though not of their [own.]</hi> As for inſtance; thou art an <hi>husband,</hi> and ſhouldſt (as Saint <hi>Peter</hi> ſpeaks) <hi>dwell with thy wife as a man of knowledge,</hi> and be a <hi>patterne</hi> for the whole family in ſer<g ref="char:EOLhyphen"/>ving the Lord; and yet it may be, thou regardeſt not theſe things; but goeſt to bed like a beaſt without Prayer, and yet ſleepeſt qui<g ref="char:EOLhyphen"/>etly, when thy poore <hi>wife</hi> or <hi>child</hi> may be upon their knees praying for thee. So thou goeſt into the world in the morning, and ſetteſt out journeyes, without ſee<g ref="char:EOLhyphen"/>king
+<pb n="87" facs="tcp:38073:58"/>the Lord, and yet it may be proſpereſt, and re<g ref="char:EOLhyphen"/>turneſt well: and why? it may be thy <hi>Miniſter</hi> Prayes for thee, and prevailes for theſe mercies in thy behalfe, which elſe <hi>thou</hi> might'ſt goe without.</p>
+            <p>
+               <hi>Laban</hi> fared the better for <hi>Iacobs</hi> ſake. And <hi>Potiphar,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 30.29.</note> and his family, <note place="margin">
+                  <hi>Gen.</hi> 39.3.</note> ſpeed the bet<g ref="char:EOLhyphen"/>ter for <hi>Ioſephs</hi> ſerving the Lord.</p>
+            <p>A <hi>graceleſſe child,</hi> may fare the better for the ſervice which <hi>gracious Parents</hi> have done him. <note place="margin">
+                  <hi>Ro.</hi> 11.28.</note> As the Lord ſaith of ſome. <hi>They are beloved for the Fathers ſake:</hi> So may ſome <hi>children</hi> find temporal mercies, at the hand of God, for ſome ſervice which was done him, by their <hi>parents.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Simil. </seg>
+               </label> As ſome <hi>great man,</hi> that
+<pb n="88" facs="tcp:38073:59"/>hath had a <hi>ſervant</hi> dwelling long with him, will many times ſhew kindneſſe to the <hi>child</hi> of that ſervant. I care not (ſayes he) if I doe ſo or ſo for him; his father was my man, or his mother was my maid, ſo many yeares, and was truſty, and faithfull in my ſervice. So doth God in this caſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>3</label> Thirdly, I anſwer that it is a groſſe miſtake, to think, that the <hi>proſperity of this life,</hi> is worthy of the name of a <hi>reward</hi> for Gods ſervice: Thoſe things which God gives as a <hi>reward</hi> for this, are <hi>within the vaile;</hi> which the <hi>eye</hi> of ſence <hi>never ſaw,</hi> which the <hi>heart</hi> of man <hi>cannot poſ<g ref="char:EOLhyphen"/>ſibly conceive of.</hi> And there<g ref="char:EOLhyphen"/>fore, though thoſe that doe <hi>not ſerve</hi> the Lord, have <hi>theſe</hi>
+               <pb n="89" facs="tcp:38073:59"/>things below, and thou, who <hi>do'ſt ſerve him,</hi> goeſt without them, yet being the Lord reſerves a <hi>better reward</hi> for thee till afterward, com<g ref="char:EOLhyphen"/>plaine not.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Simil. </seg>
+               </label> You know that men of great eſtates, ſet ſervants on work, of divers kinds; ſome, that are but <hi>dayes-men,</hi> but others that are <hi>hired ſer<g ref="char:EOLhyphen"/>vants,</hi> or <hi>bound</hi> to them for a long time: Now, the <hi>firſt ſort</hi> are paid <hi>at night,</hi> or at <hi>weekes end,</hi> three pence, or a groat a day, or ſome ſuch ſmall matter, and their Lords day dinner; and there's all they muſt looke for.</p>
+            <p>But as for the <hi>other,</hi> hee takes his <hi>wages</hi> by the <hi>lump,</hi> his Maſter takes charge of him, and makes proviſion
+<pb n="90" facs="tcp:38073:60"/>for him, not onely in health, and when he is haile and well, but in ſickneſſe too, al<g ref="char:EOLhyphen"/>lowes him attendance, pro<g ref="char:EOLhyphen"/>tects him againſt wrongs, vouchſafeth him the credit of his countenance, prefers him in marriage, and lets him have the leaſe of ſome good Farme, that he is the better for, all his dayes.</p>
+            <p>Now, ſhall <hi>this</hi> ſervant go, and complaine, that hee ſerves his Maſter <hi>in vaine,</hi> becauſe he hath not ſuch <hi>potty-payments</hi> as others have? His Maſter, may juſt<g ref="char:EOLhyphen"/>ly take this ill at his hand. So it is here; For what the Apoſtle ſaith, of the <hi>momen<g ref="char:EOLhyphen"/>tany afflictions</hi> of this <hi>preſent</hi> life, I may ſay, of the <hi>mo<g ref="char:EOLhyphen"/>mentany comforts</hi> of this <hi>pre<g ref="char:EOLhyphen"/>ſant</hi> life; <hi>They are not worthy
+<pb n="91" facs="tcp:38073:60"/>of that eternall reward,</hi> for ſerving the Lord, which hee reſerved for thoſe that are his; which is <hi>ready to be re<g ref="char:EOLhyphen"/>vealed in his time.</hi>
+            </p>
+            <p>But beſides all this, there is anſwer enough lying wide-open in the three laſt verſes of this Chapter, <note place="margin">
+                  <hi>Mal.</hi> 3.16, 17, 18.</note> which might quiet, and ſtill any ſoule for the preſent, that hath but the leaſt mea<g ref="char:EOLhyphen"/>ſure of faith in truth. There you ſhall find, <hi>For thoſe that feared the Lord and ſpake often one to another, there was a book of remembrance written,</hi> they made up as his <hi>Iewels,</hi> were <hi>&amp;c.</hi> God putting a manifeſt <hi>difference between them that ſerve him, and that ſerve him not.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> But now from this that hath been ſpoken in anſwer,
+<pb n="92" facs="tcp:38073:61"/>and for ſatisfaction, unto thoſe of Gods people, who are of tender conſciences, full of feares, and much diſ<g ref="char:EOLhyphen"/>couraged in the wayes of God; happily <hi>carnall hearts</hi> (from hence) will be ready to <hi>reply,</hi> and plead for them<g ref="char:EOLhyphen"/>ſelves after this manner. Well; now we are in ſome more hope of our ſelves then formerly we were. You told us in the beginning, that it was the property of <hi>carnall hearts,</hi> and ſuch as are wicked to account the <hi>ſervice of God vaine</hi> and un<g ref="char:EOLhyphen"/>profitable; and all that while we were much <hi>afraid</hi> of our ſelves; becauſe wee cannot deny (for our hearts) but that ſecretly we doe ſo. But <hi>ſince,</hi> you have ſaid, that <hi>Gods own people</hi> may be <hi>guil<g ref="char:EOLhyphen"/>ty</hi>
+               <pb n="93" facs="tcp:38073:61"/>of this too; And therefore <hi>now</hi> againe we begin to have ſome better <hi>hopes</hi> of our ſelves then we had, and to think that our condition may not be ſo bad, though we be guilty hereof.</p>
+            <p>To this I <hi>anſwer,</hi> 
+               <note place="margin">Diffe<g ref="char:EOLhyphen"/>rence be<g ref="char:EOLhyphen"/>tween the thoughts of the godly, and wicked, a<g ref="char:EOLhyphen"/>bout the vanity of Gods ſer<g ref="char:EOLhyphen"/>vice.</note> that there is a wide <hi>difference,</hi> between thoſe <hi>thoughts</hi> that are in the hearts of the <hi>godly,</hi> about the <hi>vanity of Gods ſervice,</hi> and thoſe that are in the hearts of the <hi>wicked;</hi> which is eſpecially, ſhewed in theſe <hi>particulars,</hi> which being o<g ref="char:EOLhyphen"/>pened, will afford a full an<g ref="char:EOLhyphen"/>ſwer to this objection. And which alſo may ſerve for <hi>markes of tryall</hi> to diſcover, which are <hi>carnall</hi> hearts, and which are <hi>gracious;</hi> which is the next thing to be ſhew<g ref="char:EOLhyphen"/>ed, and then proceed.</p>
+            <pb n="94" facs="tcp:38073:62"/>
+            <p>Firſt then, <note n="1" place="margin">Diffe<g ref="char:EOLhyphen"/>rence. or trial.</note> though there be ſome ſuch thoughts as theſe, in the hearts of the <hi>godly,</hi> touching the vanity of Gods ſervice, as if it were labour loſt that is taken therein; yet <hi>theſe thoughts</hi> are onely <hi>injected,</hi> and caſt in by Satan, and doe onely <hi>ſwimme,</hi> and flutter up and downe in the minde, but are not <hi>ſeated</hi> and <hi>ſettled</hi> in the heart; though the ſoule makes ſome queſtion about this, yet it is not fully ſettled and perſwaded of it, that ſo it is. But the <hi>carnall</hi> heart, and the wicked, is; for they have it <hi>rooted,</hi> and <hi>faſtened</hi> as a firme <hi>principle</hi> in them, that thus it is.</p>
+            <p>Now, there is a wondrous wide <hi>difference,</hi> betweene <hi>Doubtings,</hi> and <hi>Reſolutions:</hi>
+               <pb n="95" facs="tcp:38073:62"/>and they are eaſie to be diſ<g ref="char:EOLhyphen"/>cerned by ſuch a one, as is not willing to be deceived.</p>
+            <p>The ſecond difference is this; namely, <note n="2" place="margin">Diffe<g ref="char:EOLhyphen"/>rence or triall.</note> that though there be <hi>ſome</hi> ſuch <hi>thoughts</hi> as theſe, in <hi>ſome</hi> of <hi>Gods</hi> people, yet they are not touching the <hi>ſervice of God it ſelfe,</hi> but about <hi>[their]</hi> pur<g ref="char:EOLhyphen"/>ticular ſervice of God: They doe not think that it is in vaine [<hi>for others,</hi> for every body, or in it <hi>ſelfe</hi>] to ſerve God, but all their feare is, that it is in vaine, <hi>[to them.]</hi>
+            </p>
+            <p>They doe not make the leaſt queſtion, but that there are <hi>thoſe</hi> that do <hi>ſpeed</hi> in Prayer, reap much <hi>profit</hi> by the ordinances, and are much the <hi>better</hi> for ſerving the Lord. Onely, they ſay, that <hi>[they themſelves]</hi> are ne<g ref="char:EOLhyphen"/>ver
+<pb n="96" facs="tcp:38073:63"/>the better, they thinke <hi>[they]</hi> heare, and pray, and doe all <hi>in vaine.</hi>
+            </p>
+            <p>Whereas <hi>Carnall hearts,</hi> and ſuch as are naught, they doe <hi>not accuſe,</hi> or condemne their <hi>own particular</hi> ſerving of God, but the <hi>ſervice of God it ſelfe in generall.</hi> As here in the <hi>text. You have ſaid it is vaine,</hi> or a vaine thing <hi>to ſerve the Lord.</hi>
+            </p>
+            <p>Now, there is a wide dif<g ref="char:EOLhyphen"/>ference in this alſo; eaſie to be diſcerned: and let every ſoule, try it ſelfe, by this ſigne.</p>
+            <p>Thirdly, <note n="2" place="margin">Diffe<g ref="char:EOLhyphen"/>rence. or trial.</note> though there be ſuch <hi>thoughts,</hi> as were ſpo<g ref="char:EOLhyphen"/>ken of, to be found in the hearts of <hi>Gods</hi> people, yet they are not ſuch as <hi>beat them off</hi> from the uſe of <hi>meanes;</hi> reading, hearing,
+<pb n="97" facs="tcp:38073:63"/>praying, and the like; but they wil <hi>ſtill</hi> ſerve the Lord, though the <hi>feare</hi> the <hi>loſſe</hi> of their labour in their ſerving of him, though they feare they <hi>pray</hi> but in <hi>Vaine,</hi> yet they will <hi>pray ſtill</hi> and ſo for other duties.</p>
+            <p>Many <hi>poore</hi> ſoules have <hi>complained</hi> much of their <hi>unprofitablenes</hi> in Gods ſer<g ref="char:EOLhyphen"/>vice, that they have but loſt their labour, and all <hi>in vaine</hi> which they have done, and the like; whereupon (for their <hi>triall</hi>) they have beene asked after this manner, <hi>why,</hi> doe you not then <hi>give over?</hi> why doe you heare, or pray ſtill? To which they have made <hi>anſwer,</hi> that they <hi>could</hi> doe no otherwiſe: though I feare it is but in vaine to pray, yet I <hi>cannot</hi> but pray,
+<pb n="98" facs="tcp:38073:64"/>heare, conferre, and the like; <hi>Thus</hi> another, and <hi>thus</hi> ano<g ref="char:EOLhyphen"/>ther ſaith.</p>
+            <p>So, that it hath beene evi<g ref="char:EOLhyphen"/>dent, that there was ſome <hi>Principle</hi> in them; that hath carryed them on, in the wayes of God, and in his ſer<g ref="char:EOLhyphen"/>vice, notwithſtanding the ſence of their former unpro<g ref="char:EOLhyphen"/>fitableneſſe in the ſame. Or if <hi>[at a time]</hi> or for a while, they have beene beaten off, and ſo <hi>deſiſted,</hi> yet it hath <hi>not</hi> beene out of <hi>diſtaſt</hi> of the <hi>duty,</hi> ſo much as their <hi>own</hi> unfitneſſe, and indiſpo<g ref="char:EOLhyphen"/>ſition thereunto: though yet they themſelves may, and do <hi>conceive,</hi> that they doe really diſaffect the duty it ſelfe. <label type="milestone">
+                  <seg type="milestoneunit">Simil. </seg>
+               </label> As a <hi>diſtempered</hi> ſtomack may ſeeme to loath good meate, whilſt it is <hi>diſtemperd,</hi> and
+<pb n="99" facs="tcp:38073:64"/>even that which it <hi>naturally</hi> loves very well. And ſo it is in this caſe.</p>
+            <p>Whereas a <hi>carnall heart,</hi> is <hi>willing</hi> to admit of this, as a pretence for his <hi>ſloth,</hi> that the ſervice of God is <hi>in vain;</hi> that ſo, with the more peace and quiet, he may ſit ſtill, and <hi>fold up his hands;</hi> and ſo he doth.</p>
+            <p>So that <hi>his thoughts</hi> about the <hi>vanity</hi> of the ſervice of God, doe beate him <hi>off,</hi> and <hi>out</hi> of the ſervice it ſelfe. And this is a great difference.</p>
+            <p>Fourthly there is <hi>difference</hi> in the <hi>effect</hi> of theſe <hi>thoughts.</hi>
+               <note n="4" place="margin">Diffe<g ref="char:EOLhyphen"/>rence. or trial.</note> For in the hearts of the Godly they are ſoone <hi>follow<g ref="char:EOLhyphen"/>ed</hi> (if not <hi>attended</hi> for the preſent) with much <hi>ſorrow</hi> and ſelfe-ſhaming, as in the 73 <hi>Pſal.</hi> Comparing the 13
+<pb n="100" facs="tcp:38073:65"/>verſe with the 22 verſe. Whereas they that are <hi>car<g ref="char:EOLhyphen"/>all</hi> doe not thus: <hi>as for the unGdly it is not ſo with them:</hi> They are hardly humbled for <hi>words,</hi> or <hi>actions,</hi> againſt God, much leſſe for <hi>thoughts.</hi>
+            </p>
+            <p>The next uſe to be made of this point, <note n="3" place="margin">Vſe of Caution.</note> is, an uſe of <hi>Caution</hi> for <hi>Warning.</hi>
+            </p>
+            <p>And that
+<list>
+                  <item>1 to the <hi>wicked</hi>
+                  </item>
+                  <item>2 to the <hi>Godly,</hi>
+                  </item>
+                  <item>3 to <hi>all in general.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt to the <hi>wicked;</hi> 
+               <note place="margin">Caution 1. to the wicked.</note> to warne them, ever here<g ref="char:EOLhyphen"/>after, to <hi>take heede</hi> of this ſinne, of <hi>cenſuring</hi> the ſervice of <hi>God,</hi> for a <hi>vayne ſervice;</hi> Or <hi>them</hi> of <hi>Folly,</hi> or loſing their Labour, which <hi>keepe</hi> this ſer<g ref="char:EOLhyphen"/>vice, or <hi>worke hard</hi> in it.</p>
+            <p>Know, that though it be in vaine to <hi>you,</hi> (as indeed it Can be no otherwiſe, as you
+<pb n="101" facs="tcp:38073:65"/>go to worke) yet doe not thinke that it is in vayne, to <hi>all others.</hi>
+            </p>
+            <p>Though <hi>you</hi> get no <hi>good</hi> by the word you heare, or are never the <hi>better,</hi> by the pray<g ref="char:EOLhyphen"/>ers you make, and the like, yet do not thinke, but that there is <hi>good</hi> to be gotten by them, and that <hi>others</hi> are the <hi>better</hi> for them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Simil. </seg>
+               </label> Becauſe a <hi>tradeſman</hi> (out of his bad husbandry) doth <hi>not thrive</hi> in his trade, ſhall he goe and condemne <hi>the trade it ſelfe?</hi> or cenſure thoſe of folly, that drive ſuch a trade, as that is. Nay rather let him <hi>mend</hi> his husbandry, and follow his trade in a bet<g ref="char:EOLhyphen"/>ter manner, and then he may thrive, though hitherto he could not: So it is here. For men are ready to condemne
+<pb n="102" facs="tcp:38073:66"/>this <hi>trade of Godlyneſſe,</hi> and to ſuſpect the worſt by the ſervice of God, becauſe <hi>they</hi> profit no more by du<g ref="char:EOLhyphen"/>ties, and ordinances; where<g ref="char:EOLhyphen"/>as the fault is not in the <hi>ordi<g ref="char:EOLhyphen"/>nances,</hi> but in <hi>themſelves;</hi> they <hi>prepare not their hearts to ſeeke the Lord,</hi> they ſerve him not for <hi>matter, Manner, meaſure, end,</hi> as they ſhould doe, which if they did, they might ſoone finde it were <hi>not in vaine to ſerve God.</hi>
+            </p>
+            <p>Secondly, <note place="margin">Caution to the godly.</note> it is for <hi>Caution,</hi> and warning, unto the <hi>people of God,</hi> that they <hi>take heed</hi> how they harbour ſuch <hi>thoughts</hi> as theſe are, of the ſervice of God. For (as a Divine ſaith) though you cannot hinder the birds from <hi>flying over</hi> your heads, yet you may keepe them,
+<pb n="103" facs="tcp:38073:66"/>from <hi>making Neſts</hi> in your haire; ſo, though ſuch thoughts as theſe may <hi>ariſe,</hi> or be <hi>caſt in</hi> by Satan, yet ſuffer them not to <hi>ſettle</hi> up<g ref="char:EOLhyphen"/>on your hearts. This is the <hi>brand</hi> of a <hi>carnall heart.</hi> O let it not be ſet upon any of you, that have any truth of <hi>grace</hi> in you.</p>
+            <p>If the Devill can but faſten <hi>ſuch thoughts</hi> upon any of you, as to make you <hi>thinke</hi> or <hi>feare,</hi> that the <hi>ſervice of God is in vayne,</hi> he will eaſily prevaile with you, either wholly to <hi>forſake</hi> it, or elſe to be very <hi>remiſſe,</hi> and negli<g ref="char:EOLhyphen"/>gent in it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Simil. </seg>
+               </label> If a man be <hi>ſick</hi> and weak, and he be <hi>prejudic'd</hi> againſt men, and means, and per<g ref="char:EOLhyphen"/>ſwaded that <hi>no phyſitian,</hi> or phyſicke, can doe him <hi>good:</hi>
+               <pb n="104" facs="tcp:38073:67"/>that man is in the high way to <hi>death;</hi> for either, he will <hi>not meddle</hi> at al with meanes, or elſe <hi>ſtray</hi> from the <hi>rules</hi> that are preſcribed him; and then, (though it <hi>be not</hi> in vayne to take phyſicke yet) to be ſure he will <hi>make it</hi> in vaine.</p>
+            <p>And the ſame will people doe for their <hi>ſoules,</hi> if they come to entertaine a <hi>preju<g ref="char:EOLhyphen"/>dice</hi> againſt the <hi>ſervice</hi> of God.</p>
+            <p>We finde this to be the counſel of the Apoſtle. <note place="margin">
+                  <hi>Heb.</hi> 10.35.</note> 
+               <hi>Caſt not away your confidence which hath great recompence of re<g ref="char:EOLhyphen"/>ward.</hi> It ſeemes then, that, that, which is of <hi>great worth,</hi> and will at length be very profitable, is in danger to be <hi>caſt away</hi> by the <hi>people of God,</hi> as <hi>vaine,</hi> and nothing worth.</p>
+            <pb n="105" facs="tcp:38073:67"/>
+            <p>It is the caſe, and conditi<g ref="char:EOLhyphen"/>on of many a poore ſoule, to ſtand ſtaggering, and re<g ref="char:EOLhyphen"/>maine doubtfull, as not knowing what to thinke of of it ſelfe; <hi>one while</hi> it hath a doore of hope ſet open to it, it that ſome glimps &amp; glim<g ref="char:EOLhyphen"/>ring of the <hi>light of Gods coun<g ref="char:EOLhyphen"/>tenance,</hi> and ſome confidence of his love, and mercy, which doth much refreſh it; <hi>ano<g ref="char:EOLhyphen"/>ther while</hi> that doore is ſhut, and there is nothing but <hi>darkneſſe,</hi> and feare in the ſoule: and it ſuſpects its former confidence to be but meere <hi>deluſion,</hi> that it was miſtaken, and the like; and and all on the ſudden, the ſoule is ready to <hi>caſt away</hi> that confidence, as nothing worth.—Oh, but (ſaith the Apoſtle) hold your hand,
+<pb n="106" facs="tcp:38073:68"/>and be well adviſed what you doe: be not ſo prodigall to caſt away that in a pang, or pittiſh moode, which you were ſo long a getting, and coſt you ſo deare. <hi>Prove,</hi> and try your confidence if you will, nay, 'tis needfull you ſhould doe ſo, but <hi>caſt it not away:</hi> Or if Satan wring your hold out of your hand, and your confidence out of your heart, by the ſtrength of any violent temptation, then indeed you are to be pittyed, and your condition, with much Chriſtian com<g ref="char:EOLhyphen"/>paſſion to be laid to heart; But for you, to ſtand in your owne light, and to throw away ſuch a ſtay to your ſoules, by a willfull refuſall of that mercy, and denyall of that grace, which the
+<pb n="107" facs="tcp:38073:68"/>Lord hath wrought in you and given you ſome experi<g ref="char:EOLhyphen"/>ence of, and that out of the pride of your hearts, becauſe you cannot finde a ground of your holding faſt of a confidence <hi>[in your ſelves]</hi> but muſt live upon free grace; or out of diſconten<g ref="char:EOLhyphen"/>tedneſſe of ſpirit, that be<g ref="char:EOLhyphen"/>cauſe you cannot affirme, <hi>that full aſſurance</hi> of heaven, and Gods love, that you would have, therefore you will have <hi>none at all;</hi> becauſe you may not <hi>carve</hi> your ſelves, and have <hi>whole loaves,</hi> therefore you will ſcorne <hi>crummes,</hi> and <hi>caſt away pieces:</hi> If thus you doe in ſtead of <hi>pitty,</hi> you ſhal deſerve <hi>blame.</hi> And as <hi>little</hi> as this <hi>confidence,</hi> &amp; waiting upon God, ſeemes <hi>worth,</hi> which you ſlight, and
+<pb n="108" facs="tcp:38073:69"/>are <hi>caſting away,</hi> as worth nothing; yet beleeve me, tis <hi>not in vaine</hi> to hold faſt upon a promiſe, <hi>ſomething</hi> will come at laſt, though all ſeeme but <hi>loſt</hi> for the pre<g ref="char:EOLhyphen"/>ſent. And therefore <hi>caſt not away your confidence, which hath great recompence of Re<g ref="char:EOLhyphen"/>ward.</hi>
+            </p>
+            <p>Laſtly, <note place="margin">Caution to all in general.</note> it is uſefull <hi>for all in generall,</hi> to warne every one, to <hi>take heed</hi> of making voyd, and <hi>vayne</hi> the ſervice of God <hi>to himſelfe.</hi>
+            </p>
+            <p>We have ſeene, and heard the evill of this ſinne, of ac<g ref="char:EOLhyphen"/>cuſing the ſervice of God, for a <hi>vaine ſervice,</hi> and how much wrong they doe the <hi>Lord,</hi> and <hi>themſelves,</hi> that caſt ſuch an aſperſion, and unjuſt imputation upon the ſervice of God: But now, if that
+<pb n="109" facs="tcp:38073:69"/>ſhould become, <hi>really</hi> ſo to us, which is <hi>not ſo,</hi> in it <hi>ſelfe,</hi> nor to <hi>others;</hi> and that, whilſt we blame others, for ſaying it is in vaine, we ſhould be thoſe, that ſhould make it <hi>vaine</hi> to <hi>our ſelves,</hi> this would prove hard, and ſad in concluſion.</p>
+            <p>How will this make up the mouths of carnall looſe libertines, when they come at the judgement ſeat; when thoſe that would never ſpend time, nor take paynes in the ſervice of God, ſhall fare, &amp; ſpeed as wel as they that ſpent, and took much time therein, when thoſe that would not be brought to make any ſhew of good<g ref="char:EOLhyphen"/>neſſe, or take up the practice of any duties at all, ſhall fare aſwell, as thoſe that had a
+<pb n="110" facs="tcp:38073:70"/>faire <hi>forme of Godlineſſe,</hi> and were very abundant in holy duties.</p>
+            <p>When they that had no prayer in their families, ſo much as once in the weeke, or month, or yeare, ſhall ſpeed as well, and alike, with thoſe that had prayer twice a day; in a word when thoſe that take their fill in the pleaſures of ſin, that <hi>caſt off the feare of the almighty, <note place="margin">
+                     <hi>Joh.</hi> 21.14.</note> ſay<g ref="char:EOLhyphen"/>ing depart from us, for we de<g ref="char:EOLhyphen"/>ſire not the Knowledge of thy wayes;</hi> That were ſervants to their luſts, and not to God but <hi>run on in all exceſſe of riot,</hi> in ſinning with high hands, and ſtiffenecks, ſhal ſee them thruſt out from God that wore his livery, call'd him maſter, and did much work in his ſervice; Oh how wide
+<pb n="111" facs="tcp:38073:70"/>will it open their mouthes? And (if it were poſſible to laugh in Hell) how would it make them laugh and tri<g ref="char:EOLhyphen"/>umph; why, certainely, it will be thus with very many to whom the ſervice of God, ſhall be but a <hi>vaine ſervice;</hi> and they ſhall loſe all the time, and paynes that they have ſpent &amp; taken therein; ſee <hi>Mat.</hi> 7 <hi>chap.</hi> in the, 22 and 23 <hi>verſes. and Luke</hi> 13.26. Where you ſhall finde, that many, who have beene in <hi>Chriſts company,</hi> and ſtood in <hi>Chriſts roome,</hi> and done <hi>Chriſts worke,</hi> ſhall yet be <hi>diſclaimed</hi> by him, and <hi>ex<g ref="char:EOLhyphen"/>cluded</hi> from him at the laſt day; And therfore what need is there that we looke well to it, that though this ſervice be not <hi>vaine in it ſelfe</hi>
+               <pb n="112" facs="tcp:38073:71"/>yet that it prove <hi>not vaine to us.</hi>
+            </p>
+            <p>Which that it may not do, <note place="margin">Directi<g ref="char:EOLhyphen"/>ons that the ſer<g ref="char:EOLhyphen"/>vice of God may not be in vaine.</note> I ſhall deſire to lay downe ſome <hi>directions</hi> in way, of <hi>prevention,</hi> which being fol<g ref="char:EOLhyphen"/>lowed, will undoubtedly make our <hi>worke,</hi> and labour in the ſervice of the Lord <hi>profitable</hi> unto us; but, with<g ref="char:EOLhyphen"/>out which, could we doe never ſo <hi>much,</hi> and that (in ſhew) never ſo <hi>well,</hi> yet ſhould we be accounted but <hi>evill ſervants;</hi> and this is all we ſhall have at <hi>Gods hand</hi> at laſt,
+<note place="margin">
+                  <hi>Iſa</hi> 50.11.</note> to <hi>lye downe in ſorow.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Direction. </seg>1</label> The <hi>firſt</hi> thing that a ſoule muſt doe, that would not have the ſervice of the Lord prove in vaine to him, is, To <hi>get into Covenant</hi> with <hi>God,</hi> and to be at agreement with <hi>him,</hi> for <hi>whom</hi> we do work:
+<pb n="113" facs="tcp:38073:71"/>I doe not meane to Cove<g ref="char:EOLhyphen"/>nant for <hi>wages,</hi> and what thou ſhalt have for thy <hi>work,</hi> as if, otherwiſe thou wer't in danger to have nothing, for there is no feare of that; but onely <hi>Covenant</hi> with him, to be his <hi>ſervant,</hi> to be one, whom he may pleaſe to owne, and looke upon as one that doth eſpecially belong unto him: This is to be in <hi>inward</hi> Covenant with God: for you are to know, that there is a ſecret league, and Covenant which is made, and paſſeth between God, and the ſoule, at its firſt converſion. In which the Lord <hi>[for his part]</hi> makes <hi>tender</hi> and promiſe of free grace, and mercy, to the poore ſoul, ſeeing it ſelfe loſt and undone: And
+<pb n="114" facs="tcp:38073:72"/>the ſoul <hi>[for its part]</hi> being glad of God, and mercy, up<g ref="char:EOLhyphen"/>on ſuch faire termes as he propounds it upon, <hi>accepts</hi> thereof; and ſo the Cove<g ref="char:EOLhyphen"/>nant is ſtruck, the ſoule is willing to become the Lords, and to give up it ſelfe to him, and his ſervice wholly and freely. And the Lord <hi>[for his part]</hi> is wil<g ref="char:EOLhyphen"/>ling to <hi>accept</hi> of that ſoul, and of ſuch ſervice as it is, and ſhall be able, to doe for him; <hi>to aſſiſt</hi> him in his un<g ref="char:EOLhyphen"/>dertakings, to <hi>overlooke</hi> his fayling, and to <hi>reward</hi> his endeavours. And ſo for ever <hi>after</hi> this, the Lord lookes upon this ſoule as a <hi>ſervant</hi> of his, and, as <hi>ſet on worke</hi> by him, and ſo intends the <hi>rewarding</hi> of him as his ſervant; which <hi>before</hi> he
+<pb n="115" facs="tcp:38073:72"/>doth not, but ſaith as <hi>Eſay,</hi> 1.12. <hi>who hath required theſe things at your hands;</hi> I doe not deny, but that, I doe re<g ref="char:EOLhyphen"/>quire <hi>them,</hi> but not of <hi>you,</hi> and I will give a <hi>reward</hi> for the doing of them, but not to <hi>you.</hi> So in the 50 Pſal. 16 verſe, <hi>unto the wicked, God ſaith, what haſt thou to doe to declare my ſtatutes, or that thou ſhouldſt take my Cove<g ref="char:EOLhyphen"/>nant in thy mouth?</hi> where had you any <hi>commiſſion</hi> to meddle with <hi>my worke?</hi> It was an anſwer which they gave, in the 20 of <hi>Mat.</hi> 6 <hi>verſe</hi> why they <hi>ſtood ſo long idle be<g ref="char:EOLhyphen"/>cauſe no man had hyred them,</hi> as if they ſhould ſay, we had as good doe <hi>nothing,</hi> as to worke <hi>before</hi> we are hyred: and it is moſt certainly true here, that till a ſoule be <hi>a<g ref="char:EOLhyphen"/>greed</hi>
+               <pb n="116" facs="tcp:38073:73"/>(in the ſence before mentioned) with God, It ſhall have <hi>no reward</hi> for the work it does, but loſeth al its labour; <note place="margin">
+                  <hi>Job.</hi> 9.29.</note> As <hi>Iob</hi> ſaith, if <hi>I be wicked, why then labour I in vaine?</hi> ſo ſurely, all the la<g ref="char:EOLhyphen"/>bour that a wicked man takes, whilſt he is wicked, and in the ſtate of ſinne and nature, is but loſt, he does but labour in vaine. <note place="margin">
+                  <hi>Verſ.</hi> 20.</note> The Prophet ſaith, Pſal 139. <hi>Thine [enemyes] take thy Name in vaine;</hi> which holds very firme in this ſence; namely, That whilſt people remaine <hi>enemies</hi> to God, and are not truely reconciled to to him through Chriſt, <hi>they take his name</hi> (word, Sacra<g ref="char:EOLhyphen"/>ment, and all they meddle withall) <hi>in vaine.</hi> Should they heare, pray, doe ſuffer
+<pb n="117" facs="tcp:38073:73"/>or performe, never ſo many duties, of the Lords ſervice, yet all would prove <hi>in vaine unto them,</hi> and they ſhould never have comfort, nor pro<g ref="char:EOLhyphen"/>fit, by any thing they doe.</p>
+            <p>It is a great deale of <hi>time,</hi> that ſome ſpend, of <hi>paines,</hi> that they take, and <hi>coſt</hi> that they are at, about the duties of Gods ſervice, who yet, if they goe on, as they have begun, will <hi>loſe all</hi> at the laſt.</p>
+            <p>Oh! therefore let me pre<g ref="char:EOLhyphen"/>vaile with ſo many of you this day, as never tooke this courſe, now, to enter upon it, get you home, enter into your chambers, and <hi>com<g ref="char:EOLhyphen"/>mune with your hearts,</hi> about your conditions, and this worke; labour to ſee your
+<pb n="118" facs="tcp:38073:74"/>miſery by nature, and ſinne, and ſo long as you ſtand in <hi>emnity</hi> with God, and God with you, begge (as for more then your lives) to be at <hi>peace</hi> with him and be glad of reconci<g ref="char:EOLhyphen"/>liation with him upon any termes; you may goe on ſtill, in your old way of for<g ref="char:EOLhyphen"/>mality, if you pleaſe, with<g ref="char:EOLhyphen"/>out taking this courſe, as long, and twice as long (if you live as you have done,) thinking, that if you be dili<g ref="char:EOLhyphen"/>gent in duties, and painefull in the ſervice of the Lord, eſpecially with honeſt hearts, as you call them, that then you ſhal not loſe your labour, but that God will reward you, for the ſervice you doe: and it may be that ſome of you, may intend ſo
+<pb n="119" facs="tcp:38073:74"/>to doe; notwithſtanding what ever hath beene ſaid againſt it: and ſo they may, if they pleaſe, to their ſhame, and heart-ſmart, but if this be the way to true peace, or profit, the Lord hath not ſpoken by me.</p>
+            <p>And when they have wearied themſelves, in this their way, and miſſe, what they looke for, (which they will moſt certainely doe, if they looke for any good,) then will they acknowledge the truth, and neceſſity of this counſell, and (when it is too late,) will bewayle, that they tooke it not in time.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Direction. </seg>2</label> Secondly, if you would not have the ſervice of God prove a vaine ſervice, then <hi>take heed of a ſlighty ſpirit,</hi> in the performing of it; and of
+<pb n="120" facs="tcp:38073:75"/>having low, and <hi>meane thoughts,</hi> of thoſe duties, that thou undertakeſt the doing of, but labour for <hi>high and pretious thoughts,</hi> of the duties of this ſervice, and of the ordinances of God, which thou commeſt to be a partaker of, that thou may'ſt looke upon the ſervice of God, as <hi>honourable,</hi> and <hi>much deſirable</hi> ſervice, and the parts, and duties of this ſer<g ref="char:EOLhyphen"/>vice, as very <hi>profitable,</hi> &amp; as thoſe means, which the Lord hath ordained for thy <hi>great good.</hi> To look upon prayer, as a profitable ordinance, and meanes, very forcible with God, to breake open his treaſure, and to obtaine all needfull mercies by.</p>
+            <p>So for the word, the Sa<g ref="char:EOLhyphen"/>crament, and the reſt, many
+<pb n="121" facs="tcp:38073:75"/>there be, which performe many of the duties of Gods ſervice, but yet come not with <hi>ſuch thoughts</hi> as theſe are, but looke upon them as <hi>meane</hi> ordinarie things; and that becauſe they know not the worth, and pretiouſneſſe of them, and never found, or got any great good by them, when as the ground thereof, is, in themſelves; they come with <hi>low thoughts,</hi> and ſlighty eſtimation, to the ordinan<g ref="char:EOLhyphen"/>ces, and then no marvell they find them <hi>vaine,</hi> and unprofitable <hi>to them.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Direction. </seg>3</label> Thirdly, he that would not have the ſervice of God in vaine unto him—muſt looke that he be <hi>faithfull</hi> in the doing of it.</p>
+            <p>And this <hi>faithfulneſſe</hi> is to be ſhewed, in theſe <hi>five
+<pb n="122" facs="tcp:38073:76"/>things Carefulneſſe, <note place="margin">Faithful<g ref="char:EOLhyphen"/>neſſe in Gods ſer<g ref="char:EOLhyphen"/>vice to be ſhewed in 5. things. Careful<g ref="char:EOLhyphen"/>neſſe.</note> Diligence, ſinceritie, Beliefe, and Perſe<g ref="char:EOLhyphen"/>verance.</hi>
+            </p>
+            <p>Firſt it is to be ſhewed in <hi>carefulneſſe,</hi> of <hi>univerſalitie</hi> of <hi>obedience;</hi> that a man be carefull in attending, upon <hi>all</hi> Gods wayes, and in doing <hi>all</hi> that worke, that God ſets him about.</p>
+            <p>He is not a <hi>faithfull</hi> ſer<g ref="char:EOLhyphen"/>vant, that will <hi>pick,</hi> and <hi>chooſe</hi> his worke, to doe one<g ref="char:EOLhyphen"/>ly <hi>that</hi> which likes him, and <hi>leave</hi> the reſt: ſo, neither is he a <hi>faithfull</hi> ſervant to <hi>God</hi> that will doe onely <hi>ſome,</hi> not <hi>all:</hi> that will attend upon God in <hi>ſome</hi> duties, and or<g ref="char:EOLhyphen"/>dinances, but omit <hi>other<g ref="char:EOLhyphen"/>ſome,</hi> and that can be con<g ref="char:EOLhyphen"/>tent to put his <hi>hand</hi> to Gods <hi>worke,</hi> but not to his <hi>neck</hi> or his <hi>back,</hi> to his <hi>croſſe,</hi> or bur<g ref="char:EOLhyphen"/>then;
+<pb n="123" facs="tcp:38073:76"/>
+               <hi>doing-worke</hi> will down but not <hi>ſuffering-worke.</hi>
+            </p>
+            <p>Well thinke better of it, and baulke <hi>none</hi> of Gods worke, but take it as it lies in order, and comes; for <hi>that part</hi> of Gods ſervice that thou <hi>neglecteſt,</hi> may be <hi>that,</hi> in the doing whereof, the Lord may intend to ſhew thee <hi>much mercy,</hi> and to give thee a reward for <hi>that,</hi> and <hi>other</hi> ſervice together.</p>
+            <p>If it be <hi>ſecret prayer,</hi> or ſuch a duty, that thou liveſt in the neglect of, thou may'ſt bereave thy ſelfe of much good in the <hi>neglect</hi> of it: for as God meets one in <hi>ſome</hi> dutie, rather then in <hi>other-ſome,</hi> ſo, that may be <hi>that</hi> very dutie that God may intend to Communi<g ref="char:EOLhyphen"/>cate more mercie to thee in,
+<pb n="124" facs="tcp:38073:77"/>then <hi>any other.</hi> So the like may be ſaid of <hi>ſufferings,</hi> for the Lord hath let out, more of himſelfe ſometimes in a <hi>priſon,</hi> then any other way.</p>
+            <p>And therefore as <hi>David</hi> ſhewed his <hi>faithfulneſſe</hi> in having <hi>reſpect to all Gods com<g ref="char:EOLhyphen"/>mandements;</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 119.6</note> ſo let us.</p>
+            <p>Secondly, <note place="margin">Diligence 2.</note> this <hi>faithfulneſſe,</hi> lies in doing the worke of the Lord <hi>diligently,</hi> when the ſoule puts out its ſelfe in what it undertakes for God. A man is not therefore a faithfull ſervant to his Maſt<g ref="char:EOLhyphen"/>er, becauſe he puts his hand to <hi>every worke,</hi> and ſhunneth none, if yet, he <hi>ſlubbereth over</hi> his worke, in a lazy, and ſlothful manner, and doth none as he ought to doe: but the doing of it to his <hi>utmoſt,</hi> ſheweth his <hi>faithfulneſſe</hi> as
+<pb n="125" facs="tcp:38073:77"/>well as his doing of it <hi>at all:</hi> and this is that which the Lord calls for: <note place="margin">
+                  <hi>Rom.</hi> 12.11.</note> 
+               <hi>Not ſlothfull in buſineſſe, fervent in Spirit, ſerving the Lord.</hi>
+            </p>
+            <p>So in another place, <note place="margin">
+                  <hi>Eccleſ.</hi> 9.10</note> 
+               <hi>what ever thy hand, findeth to doe, doe it with thy might;</hi> if it be <hi>not</hi> a duty, meddle not with it, doe it not <hi>at all;</hi> but if it be a duty &amp; a duty to God, what <hi>exactneſſe</hi> in the doing of it can be ſufficient? and therefore doe ſuch a duty, with thy <hi>might,</hi> pray with thy <hi>might,</hi> heare with thy <hi>might,</hi> ſtand for God with thy <hi>might,</hi> and ſo for any other duty. The want of this, is the bane of a great many duties, and of much ſervice, which are made void, and unprofitable, by this very meanes: nay in<g ref="char:EOLhyphen"/>ſtead of a <hi>reward,</hi> they ſhal
+<pb n="126" facs="tcp:38073:78"/>have <hi>wrath,</hi> and vengeance for their wages: according to that of the Prophet <hi>Iere<g ref="char:EOLhyphen"/>my, <note place="margin">
+                     <hi>Ier.</hi> 48.10.</note> curſed be he, that doth the worke of the Lord negligently, or deceitfully;</hi> that might do it <hi>better</hi> then he does, but doth not put out himſelfe. Or that ſeemes to do it otherwiſe then he doth it in deed; ſeeming very zealous God, when there is neither for life, nor heat within; <hi>Bur<g ref="char:EOLhyphen"/>ning lippes and a wicked heart,</hi> (like Solomons plate) <hi>a pot<g ref="char:EOLhyphen"/>ſheard covered with ſilver droſſe.</hi> 
+               <note place="margin">
+                  <hi>Pro.</hi> 26.23</note> Oh, heare and feare?</p>
+            <p>The third part of this <hi>faithfulneſſe,</hi> 
+               <note place="margin">Sincerity. 3.</note> is <hi>ſincerity,</hi> and uprightneſſe in heart: which is, when a ſoule doth the ſervice of God, and the du<g ref="char:EOLhyphen"/>ties of it, in <hi>obedience</hi> to his <hi>command,</hi> aiming at him, and
+<pb n="127" facs="tcp:38073:78"/>his <hi>glory,</hi> in the workes, and duties, that it doth per<g ref="char:EOLhyphen"/>forme.</p>
+            <p>The Lord would have ſer<g ref="char:EOLhyphen"/>vants looke through their <hi>[earthly]</hi> maſters in the ſer<g ref="char:EOLhyphen"/>vice they doe for them, <note place="margin">
+                  <hi>Eph.</hi> 6.5.</note> and and to have an eye, to <hi>Chriſt</hi> in what they doe, who is the chiefe Maſter of all: but, much more then, ought <hi>he</hi> to be eſpecially eyed, and aymed at in thoſe actions, which are <hi>immediately</hi> done unto <hi>himſelfe;</hi> true, the <hi>eye of man,</hi> cannot pierce the <hi>heart,</hi> to diſerne, the intention of that, but the <hi>Lords</hi> doth: For however a ſervant may be accounted faithfull, when as he doth not purely looke at his <hi>Maſter,</hi> in the ſervice he doth, (for his <hi>Maſter,</hi> can<g ref="char:EOLhyphen"/>not ſee his heart) yet he can<g ref="char:EOLhyphen"/>not
+<pb n="128" facs="tcp:38073:79"/>be, nor is accounted a faithfull ſervant, with the <hi>Lord,</hi> unleſſe he lookes more at the Lord, then at <hi>himſelfe</hi> or any other. In the 7 of <hi>Zach.</hi> 5. the Lord puts this queſtion home unto them, <hi>did yee at all faſt to me;</hi> and doubles it againe, <hi>even to me?</hi> that whereas they might be ready and overforward to make anſwer for them<g ref="char:EOLhyphen"/>ſelves, and ſay, Yes Lord, we did, what we did, <hi>to thee,</hi> he replies; <hi>even to me?</hi> are you ſure you did it <hi>to me?</hi> that you looked <hi>purely at me &amp;c.</hi>
+            </p>
+            <p>The want of <hi>this</hi> makes <hi>void,</hi> and <hi>vaine,</hi> our <hi>worke,</hi> and prevents that <hi>reward,</hi> that elſe we might have; as is cleare from <hi>Mat.</hi> 6.5, and 16 <hi>verſe;</hi> as if the Lord had
+<pb n="129" facs="tcp:38073:79"/>ſaid, if you looke not at <hi>me</hi> in your <hi>worke,</hi> why ſhould you looke at <hi>me</hi> for <hi>wages,</hi> for the worke you doe?</p>
+            <p>The <hi>fourth</hi> branch of this <hi>faithfulneſſe,</hi> required, <note place="margin">Faith, or Believing. 4.</note> in the ſervice of God, to make it profitable, is <hi>Beleeving:</hi> which is, that when the ſoule hath proved it ſelfe to be in covenant, with God, (accor<g ref="char:EOLhyphen"/>ding to the firſt direction,) that then it ſtirres up it ſelfe, to exerciſe <hi>faith</hi> in the be<g ref="char:EOLhyphen"/>leeving, Applying, and preſſing, of thoſe <hi>promiſes,</hi> which it hath right, and ti<g ref="char:EOLhyphen"/>tle to, as touching <hi>aſſiſtance, accceptance, anſwering, rewar<g ref="char:EOLhyphen"/>ding</hi> and the like.</p>
+            <p>The Apoſtle ſhewes the abſolute neceſſity of <hi>faith,</hi> 
+               <note place="margin">
+                  <hi>Heb.</hi> 11.6.</note> even in the exerciſe of it, to be in thoſe that approach
+<pb n="130" facs="tcp:38073:80"/>
+               <hi>nigh to God,</hi> in any ſervice of his, <note place="margin">
+                  <hi>Iam.</hi> 1.6, 7</note> as in prayer;—Saint <hi>Iames</hi> ſhewes, that <hi>ſuch an one, as doth not pray in faith, without wavering, muſt not looke to receive any thing,</hi> as wages for his worke, from the <hi>Lord,</hi> though he may re<g ref="char:EOLhyphen"/>ceive much from <hi>man,</hi> re<g ref="char:EOLhyphen"/>wards, and applauſe &amp;c.— Yet from the <hi>Lord,</hi> he muſt looke for <hi>none;</hi> if he doe, he is but deceived, and ſo ſhall bee.</p>
+            <p>The Lord ſaith, to them that come to him, as he ſaid as he ſaid to thoſe <hi>blind men</hi> what? doe you come to me for ſight? <note place="margin">
+                  <hi>Matth.</hi> 9.28, 29.</note> 
+               <hi>according as you be<g ref="char:EOLhyphen"/>leeve, ſo ſhall you ſpeed, &amp;c.</hi>
+            </p>
+            <p>I am preſwaded, that if theſe men, had come to our Saviour in <hi>an ordinary, for<g ref="char:EOLhyphen"/>mall way,</hi> led by the example
+<pb n="131" facs="tcp:38073:80"/>of others, (that becauſe they ſaw others that were blind, and lame, goe to Chriſt, therefore they would goe too,) they might have gone away, as blind as they came, for any ſight, or benefit, that they ſhould have had from him. And ſo, if people, goe to God in duties, [as in prayer] in an <hi>ordinary for<g ref="char:EOLhyphen"/>mall way,</hi> becauſe it is the order and faſhion to goe to God, and pray, in time of want, they may goe often enough, and pray long enough, ere they ſhall ob<g ref="char:EOLhyphen"/>taine, and worke till they be weary in the ſervice of God, ere they get any good re<g ref="char:EOLhyphen"/>ward for it: yea though a man be a <hi>beleever,</hi> and hath that ſingular gift, and grace, of faith in him, yet this is not
+<pb n="132" facs="tcp:38073:81"/>enough unleſſe he doth, <hi>ſtirre up this gift, and grace,</hi> ſo, as to have the <hi>uſe</hi> and <hi>ex<g ref="char:EOLhyphen"/>erciſe</hi> of it, even in the time of working, and doing God ſervice; for a <hi>habite</hi> is onely ſo farre of uſe, and profita<g ref="char:EOLhyphen"/>ble, as it is brought forth in<g ref="char:EOLhyphen"/>to <hi>act</hi> and exerciſe. Expe<g ref="char:EOLhyphen"/>rience ſhewes, that the ſame ſoule, which ſeemes <hi>one day,</hi> to worke for nothing, and to labour <hi>in vaine,</hi> with God, in the duties of his ſervice; <hi>another day,</hi> or by another duty is ſent <hi>loaden away,</hi> full of the deſires of its ſoule, and thinkes it ſelfe abun<g ref="char:EOLhyphen"/>dantly rewarded; the rea<g ref="char:EOLhyphen"/>ſon will be found, to be from hence, (if it be well looked into,) that <hi>faith</hi> was <hi>more exerciſed,</hi> at one time, then at another. If therefore
+<pb n="133" facs="tcp:38073:81"/>thou wouldeſt not have, the ſervice of the Lord, and the dutyes of it, to be <hi>in vaine</hi> unto thee, then worke in <hi>faith</hi>
+            </p>
+            <p>Laſt of all, <note place="margin">Perſeve<g ref="char:EOLhyphen"/>rance. 5.</note> this <hi>faithful<g ref="char:EOLhyphen"/>neſſe</hi> conſiſteth, and is to be ſhewed, in <hi>perſeverance,</hi> holding on without fain<g ref="char:EOLhyphen"/>ting;
+<note place="margin">
+                  <hi>Rev.</hi> 2.10.</note> 
+               <hi>Be faithfull unto the death,</hi> that is, in perſevering to the laſt; for thus faithful<g ref="char:EOLhyphen"/>neſſe is ſhewed; he is <hi>not</hi> ac<g ref="char:EOLhyphen"/>counted, a <hi>faithfull</hi> ſervant, that <hi>gives over</hi> his work be<g ref="char:EOLhyphen"/>fore it be done, nor he faith<g ref="char:EOLhyphen"/>full to god, or his own ſoul, that <hi>gives over</hi> before he ſpeed;
+<note place="margin">
+                  <hi>Pſal.</hi> 123.2.</note> 
+               <hi>We waite upon the Lord untill he have mercy upon us;</hi> ſo ſhould a Chriſtian re<g ref="char:EOLhyphen"/>folve, not to give over, or a<g ref="char:EOLhyphen"/>way from God without an anſwer. I doe not deny, but
+<pb n="134" facs="tcp:38073:82"/>a Chriſtian may be held off, and delayed in his ſuite, and ſervice, that he may, even make ſome queſtion, whe<g ref="char:EOLhyphen"/>ther he hath not quite loſt his labour; whether ever his prayers ſhall be anſwered, and his ſervice rewarded, or no; for all may <hi>ſeeme</hi> to be in vaine. <note place="margin">1 <hi>Cor.</hi> 4.5.</note> Oh! but ſtay a while, and <hi>Iudge nothing be<g ref="char:EOLhyphen"/>fore the time;</hi> much leſſe this; to ſay, or thinke, that the Lord will be ſo hard, and unfaithfull, as not to reward your labour; for the full and <hi>ſet time,</hi> of the Lord; payment, is not yet come.</p>
+            <p>I wiſh, that well knowne place, in <hi>Mat.</hi> 24 13, were as wel conſidered of, as know<g ref="char:EOLhyphen"/>en;—<hi>He that endureth to the end, the ſame ſhall be ſaved.</hi> In which words, amongſt ma<g ref="char:EOLhyphen"/>ny
+<pb n="135" facs="tcp:38073:82"/>things conſiderable, there be eſpecially two, for our preſent purpoſe, the <hi>condition</hi> of the promiſe, and the <hi>promiſe,</hi> it ſelfe.</p>
+            <p>
+               <hi>Perſeverance</hi> is the <hi>dutie</hi> required, in <hi>all</hi> the <hi>parts</hi> of Gods ſervice, and the Lord is not tyed, to give any <hi>re<g ref="char:EOLhyphen"/>ward,</hi> or make payment, till <hi>this</hi> dutie, or condition be performed: <note place="margin">
+                  <hi>Mat.</hi> 20.</note> the <hi>Labourers</hi> that had wrought in the <hi>vineyard,</hi> were not called to take their <hi>payment,</hi> till the <hi>evening,</hi> and end of the day.</p>
+            <p>True; ſometimes the maſter of the field, will come in amongſt his harveſt men, about <hi>noone,</hi> or ſome other time of the day, and give them <hi>a largeſſe,</hi> for their incouragement, over and above, their wages; but
+<pb n="136" facs="tcp:38073:83"/>how ever, at <hi>night</hi> they ſhall have their <hi>reward without faile;</hi> and they have no cauſe to complaine, if they ſtay till then, and have no more then their wages; even ſo is it here, the Lord, is pleaſed ſometimes to come <hi>[in]</hi> ve<g ref="char:EOLhyphen"/>ry ſweetly, to a ſoule, whilſt 'tis at the work, &amp; labouring in his ſervice, at the word, in a prayer, in a ſacrament, or the like, &amp; gives it ſome inklings of his love, and ſealings of his ſpirit, which are as <hi>Largeſſes</hi> to the ſoule, that glad the heart, and doe much incou<g ref="char:EOLhyphen"/>rage it in the wayes and worke of God: &amp;c.—But you muſt know, that this is an <hi>over-plus</hi> of his love, which though he doth <hi>ſome<g ref="char:EOLhyphen"/>times</hi> beſtow, yet <hi>not alwayes,</hi> for it is the portion, even of <hi>ſom</hi> that fear the Lord, <hi>to walk
+<pb n="137" facs="tcp:38073:83"/>in darknes, &amp; ſee no light;</hi> 
+               <note place="margin">
+                  <hi>Iſa.</hi> 50.10</note> for the Lord, will be left free <hi>[in this,]</hi> and it is <hi>more,</hi> then he will make <hi>promiſe of,</hi> that there may be no ground of complaint to any: onely the certaine, and <hi>ſtanding wages is, ſalvation;</hi> and this, he <hi>bindes</hi> himſelfe by <hi>Covenant,</hi> to <hi>give,</hi> in that ſorenamed place, <note place="margin">
+                  <hi>Mat.</hi> 24.13.</note> 
+               <hi>he that ſhall endure to the end, the ſame ſhall be ſaved;</hi> as if he ſhould have ſaid, if there doe come any thing <hi>over,</hi> and <hi>beſide</hi> what I <hi>pro<g ref="char:EOLhyphen"/>miſe,</hi> and good may it doe you, take it, and be thanke<g ref="char:EOLhyphen"/>full: <hi>onely</hi> this is that you may truſt to: <hi>[Salvation.] He ſhall be ſaved,</hi> and will not this wages be ſufficient; hath he any <hi>cauſe,</hi> to ſay, that the <hi>ſervice of God is a vaine ſer<g ref="char:EOLhyphen"/>vice,</hi> that ſhall have <hi>this</hi> at the <hi>laſt?</hi> how little ſoever,
+<pb n="138" facs="tcp:38073:84"/>he hath for the <hi>preſent,</hi> he knoweth not what <hi>ſalvation</hi> is, that thinks it will not: ſurely if thou wert as ſore a labourer as ever wrought for God, and ſhouldſt beare the <hi>burthen and heate of the day,</hi> yet ſhouldſt <hi>all thy dayes, eat in darkneſſe,</hi> and never have good looke from God, nor any incouragement in his worke, yet this <hi>penny</hi> of <hi>ſalvation,</hi> at the <hi>night</hi> of death, and thoſe things that accompany the ſame, would be <hi>wages ſufficient;</hi> therefore ceaſe thy complaints, and <hi>perſevere</hi> in thy endeavours.</p>
+            <p>Thus have I at large ſhew<g ref="char:EOLhyphen"/>ed you what you muſt doe, if you would not have the <hi>ſervice of God</hi> to be made void, and <hi>vaine to you.</hi>
+            </p>
+            <p n="1">1 Get into <hi>Covenant</hi> with God.</p>
+            <p n="2">
+               <pb n="139" facs="tcp:38073:84"/>2. Take heed of <hi>a ſlighty</hi> ſpirit in the ſervice of God.</p>
+            <p n="3">3. Looke well to your hearts, that they be found <hi>faithfull</hi> in the mayne; eſpe<g ref="char:EOLhyphen"/>cially in thoſe five partiou<g ref="char:EOLhyphen"/>lars: In <hi>Carefulneſſe,</hi> in <hi>Dili<g ref="char:EOLhyphen"/>gence,</hi> in <hi>Sincerity,</hi> in <hi>Beliefe,</hi> and in <hi>Perſeverance.</hi>
+            </p>
+            <p>And now give me leave in the Cloſure of all, to ſpeake to you, as <hi>David</hi> ſpake to the people 1 Chro. 29.5. <hi>Who now is willing [among you] to conſecrate his ſervice this day unto the Lord?</hi> ſhall I helpe the Lord to never a ſervant more by this dayes worke? Believe it Friends, you'l never meet with a <hi>bet<g ref="char:EOLhyphen"/>ter</hi> Maſter; to be ſure, you'l never meet with ſo <hi>good</hi> a maſter, if you ſhould travell to the utmoſt parts of the Earth.</p>
+            <pb n="140" facs="tcp:38073:85"/>
+            <p>It's held (indeed) as a <hi>diſ<g ref="char:EOLhyphen"/>cour teſie</hi> in the world, and a poynt of <hi>diſhoneſty,</hi> to wiſh or procure away a ſervant from <hi>one</hi> maſter to <hi>another.</hi> But I wiſh with al my heart, I could this day, procure ſome of the <hi>worlds,</hi> the <hi>De<g ref="char:EOLhyphen"/>vills</hi> or <hi>ſinn's</hi> ſervants to be<g ref="char:EOLhyphen"/>come the true and faithfull ſervants of the moſt high <hi>God.</hi>
+            </p>
+            <p>For <hi>my part,</hi> I would be willing to venture the diſ<g ref="char:EOLhyphen"/>pleaſure of their <hi>old Maſters.</hi>
+            </p>
+            <p>And you, for <hi>your part,</hi> I dare ſay, would be highly thankfull unto me, for wiſh<g ref="char:EOLhyphen"/>ing you to <hi>ſuch</hi> a ſer<g ref="char:EOLhyphen"/>vice.</p>
+            <p>If I could perſwade any ſoule heare, to leave its <hi>old drudgery,</hi> and to accept of <hi>the ſervice of God,</hi> thou wouldſt
+<pb n="141" facs="tcp:38073:85"/>ſoone be ready to ſay, as <hi>David</hi> ſaid to <hi>Abigail,
+<note place="margin">1 <hi>Sa.</hi> 25.32.33.</note> Bleſſed be the Lord God of Iſraell which hath ſent thee this day to meete me; And bleſſed be thy advice, bleſſed be thou;</hi> For I was even wearying my ſelf in a way of vanity, I was ſerving the <hi>worſt maſter,</hi> and doing the <hi>worſt work</hi> in the world, I was about to re<g ref="char:EOLhyphen"/>ceive the <hi>worſt wages</hi> that ever poore creature receiv<g ref="char:EOLhyphen"/>ed: <hi>for the wages of ſin is death</hi> And therefore bleſſed, and for ever bleſſed, be that God that hath ſent forth a meſ<g ref="char:EOLhyphen"/>ſenger to ſtop me in that way, to let me ſee the <hi>vanity</hi> of that <hi>old ſervice,</hi> in which <hi>formerly</hi> I tooke ſo much de<g ref="char:EOLhyphen"/>light and to perſwade my heart to delight in that <hi>new
+<pb n="142" facs="tcp:38073:86"/>ſervice</hi> of the Lord, which <hi>formerly</hi> I judged as vaine, and fruitleſſe.</p>
+            <p>Well friends be perſwad<g ref="char:EOLhyphen"/>ed this day, (and the Lord perſwade you) <hi>to dwell in the tents of Shem.</hi> 
+               <note place="margin">
+                  <hi>Gen.</hi> 9.27.</note> The Lord per<g ref="char:EOLhyphen"/>ſwade you to accept of his <hi>reaſonable ſervice,</hi> be not afraid of it, there is all the <hi>reaſon</hi> in the world you ſhould ſerve him. Tis true, there are ſtrange reports that goe about of this ſer<g ref="char:EOLhyphen"/>vice: <hi>Tis a way that is every where ſpoken againſt,</hi> Goe amongſt them that have much <hi>meanes</hi> of <hi>knowledge,</hi> and much <hi>knowledge</hi> by the <hi>meanes,</hi> and they ſpeake a<g ref="char:EOLhyphen"/>gainſt it there, <hi>are any of the Rulers,</hi> of the ſcribes, and phariſees ſo forward in the ſervice of God. <note place="margin">
+                  <hi>Joh.</hi> 7.48.</note> Go amongſt
+<pb n="143" facs="tcp:38073:86"/>them that are <hi>ignorant,</hi> and they ſpeake againſt it there, as if it were the <hi>vileſt drud<g ref="char:EOLhyphen"/>gery</hi> in the world; whereas, the Apoſtle ſayes,
+<note place="margin">2 <hi>Cor.</hi> 3.17</note> its <hi>perfect freedome; <note place="margin">
+                     <hi>Ioh.</hi> 8.36.</note> if the ſonne make you free, then are you free in<g ref="char:EOLhyphen"/>deed.</hi> Beleeve it, when you come to dy, you will have more comfort, by <hi>one week</hi> ſpent in this ſervice, then in <hi>many years</hi> ſpent in the ſer<g ref="char:EOLhyphen"/>vice of ſinne, and Satan.</p>
+            <p>Be perſwaded therefore to <hi>accept</hi> of the ſervice of God this day; As he makes a <hi>gracious profer</hi> to enter<g ref="char:EOLhyphen"/>taine you, be content to <hi>ac<g ref="char:EOLhyphen"/>cept of it</hi> with all thankeful<g ref="char:EOLhyphen"/>neſſe, take Gods <hi>Feſting penny,</hi> receive his <hi>earneſt,</hi> ſubſcribe to the <hi>indentures</hi> of his Covenant; And then the <hi>match is made</hi> betwixt
+<pb n="144" facs="tcp:38073:87"/>God and your ſoules, accor<g ref="char:EOLhyphen"/>ding to that remarkable Prophecy, Eſay, 44, 5. <hi>One ſhall ſay, I am the Lords: and another ſhall call himſelfe by the name of Iacob: and another ſhall ſubſcribe with his hand, vnto the Lord and Surname himſelfe by the name of Iſraell.</hi> And this was that which <hi>David</hi> preferred above the <hi>Chiefe flower</hi> in his <hi>Crowne</hi> e<g ref="char:EOLhyphen"/>ven to be call'd the <hi>ſervant of the Lord,</hi>
+               <note place="margin">Pſal. 18. the title.</note> rather then a <hi>Lord of ſervants.</hi> Let this be the utmoſt ambition of each gracious ſoule, that it may ſay as he did, Pſal. 116.16. <hi>Oh Lord, truly I am thy ſer<g ref="char:EOLhyphen"/>vant, I am thy ſervant, and the ſonne, of thy handmayd; thou haſt looſed my bonds.</hi>
+            </p>
+            <p>To every ſuch faithfull ſervant ſhall that gracious
+<pb facs="tcp:38073:87"/>promiſe of our great Lord, and Maſter, made good, <hi>Ioh:</hi> 12.26 <hi>If any man ſerve me, let him follow me, and where I am there ſhall alſo my ſervant be: if any man ſerve me, him will my Father honour.</hi>
+            </p>
+            <p>Therefore to conclude, let me exhort you as <hi>Ioſhua</hi> did the people. <hi>Now feare the Lord, and ſerve him in ſinceri<g ref="char:EOLhyphen"/>ty, and in truth,</hi> I hope it <hi>ſeems not evill to any of you to ſerve God, but you will chooſe the Lord for your maſter,</hi> and each one for himſelfe, reſolve, and ſay with him, (whatſo<g ref="char:EOLhyphen"/>ever others doe) <hi>as for me, and my houſe, we will ſerve the Lord.</hi>
+            </p>
+            <p>What ſay yee; (before I goe hence) what anſwer ſhall I returne to him that ſent me? ſhall I returne the
+<pb facs="tcp:38073:88"/>ſame anſwer the people gave to <hi>Ioſhua</hi> (the Lord perſwade your hearts to the ſame height of reſolution) <hi>God forbid that we ſhould for<g ref="char:EOLhyphen"/>ſake the Lord, to ſerve other Gods.</hi>
+            </p>
+            <p>
+               <hi>The Lord our God will we ſerve, and his voyce will we Obey.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:38073:88"/>
+            <head>A TABLE OF The maine things contained in this fol<g ref="char:EOLhyphen"/>lowing Treatiſe.</head>
+            <p>
+               <hi>THe Doctrine is,</hi>
+               <list>
+                  <item>1. <hi>Propounded.</hi>
+                  </item>
+                  <item>2. <hi>Proved.</hi>
+                  </item>
+                  <item>3. <hi>Cleared.</hi>
+                  </item>
+                  <item>4. <hi>Applyed.</hi>
+                  </item>
+               </list>
+            </p>
+            <list>
+               <item>1. <hi>The Doctrine is propoun<g ref="char:EOLhyphen"/>ded.</hi> viz. <hi>That Carnall hearts</hi>
+                  <pb facs="tcp:38073:89"/>do judge the true ſervice of God a vaine ſervice, Pag. 5</item>
+               <item>2. <hi>The Doctrine is proved,</hi>
+                  <list>
+                     <item>1. <hi>By</hi> Scripture.</item>
+                     <item>2. <hi>By</hi> reaſon.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <item>1. That <hi>their judgement is ſo.</hi> (A.)</item>
+               <item>2. Why <hi>they doe ſo judge.</hi> (B.)</item>
+            </list>
+            <list>
+               <item>(A.) 1. That <hi>their judgement is ſo which is</hi> demonſtrated,
+<list>
+                     <item>1. <hi>By their wilfull and totall</hi> omiſſion <hi>of ſome knowne duties.</hi> 9</item>
+                     <item>2. <hi>By their</hi> ſlighty perfor<g ref="char:EOLhyphen"/>mance <hi>of thoſe duties they doe undertake.</hi> 13</item>
+                     <item>3. <hi>By their</hi> wearineſſe <hi>even in thoſe ſlighty performan<g ref="char:EOLhyphen"/>ces,</hi> 17</item>
+                     <pb facs="tcp:38073:89"/>
+                     <item>4. <hi>By thoſe</hi> baſe thoughts <hi>they harbour</hi> of ſuch as ſerve God better <hi>then themſelves,</hi> 20</item>
+                  </list>
+               </item>
+               <item>(B.) 2. Why <hi>they doe ſo judge, as,</hi>
+                  <list>
+                     <item>1. <hi>Becauſe, they queſtion whether there be</hi> any ſuch God <hi>to ſerve,</hi> 26</item>
+                     <item>2. <hi>Becauſe it is</hi> in vaine to them, <hi>they judge it to bee in vaine to</hi> all others <hi>alſo,</hi> 29</item>
+                     <item>3. <hi>Becauſe many</hi> great and learned <hi>men are</hi> not moſt forward <hi>in it;</hi> 35</item>
+                     <item>4. <hi>Becauſe God doth ſome<g ref="char:EOLhyphen"/>times</hi> defer <hi>the pay<g ref="char:EOLhyphen"/>ment of his ſervants wages,</hi> 37</item>
+                  </list>
+               </item>
+               <pb facs="tcp:38073:90"/>
+               <item>3. <hi>The</hi> Doctrine <hi>is cleared by anſwering a maine</hi> Obje<g ref="char:EOLhyphen"/>ction.
+<list>
+                     <item>Object. <hi>If carnall hearts doe judge Gods ſervice as</hi> vaine, <hi>why doe they then ſerve God</hi> at all? 39</item>
+                     <item>Anſ. <hi>There are</hi> two <hi>ſpeciall</hi> reaſons <hi>for it.</hi>
+                        <list>
+                           <item>1. <hi>They are</hi> forced <hi>and haled thereto by Example, Cu<g ref="char:EOLhyphen"/>ſtome, Conſcience, power<g ref="char:EOLhyphen"/>full Ordinances.</hi> 41</item>
+                           <item>2. <hi>They doe it to</hi> make ſure uncertainties, <hi>in ſome ſtirrings of conſcience,</hi> 44</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>4. <hi>The</hi> Doctrine <hi>is</hi> applied <hi>by way of,</hi>
+                  <list>
+                     <item>1. Information, <hi>for it in<g ref="char:EOLhyphen"/>formes us,</hi>
+                        <list>
+                           <item>1. <hi>Why the Lord hath</hi> no more ſervants <hi>to wait upon him,</hi> 50</item>
+                           <pb facs="tcp:38073:90"/>
+                           <item>2. <hi>What is the ground of ſo much</hi> lukewarmneſſe, <hi>and indifferency in Gods ſervice,</hi> 50</item>
+                           <item>3. <hi>What is the ground of ſo much</hi> Apoſtacy, <hi>and back-ſliding from God.</hi> 53</item>
+                        </list>
+                     </item>
+                     <item>2. <hi>Reproofe,</hi>
+                        <list>
+                           <item>1. Directly <hi>to the</hi> wicked,
+<list>
+                                 <item>1. <hi>To thoſe who judge men to be the</hi> worſe <hi>for Gods ſervice.</hi> 57</item>
+                                 <item>2. <hi>To thoſe who judge it</hi> vaine. 58</item>
+                              </list>
+                           </item>
+                           <item>2. By conſequence, <hi>to</hi> Gods own people, (<hi>if it be a ſinne in</hi> carnall hearts, <hi>much more is it ſo, in the</hi> people of God) 61</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>Queſt. <hi>What doe Gods people</hi> object <hi>againſt the ſervice of God, that</hi> (under temp<g ref="char:EOLhyphen"/>tation) <hi>they think it vain?</hi>
+               </item>
+               <pb facs="tcp:38073:91"/>
+               <item>Anſ. Objections <hi>doe ariſe in their hearts,</hi> ſpringing.</item>
+               <item>1. From themſelves <hi>in re<g ref="char:EOLhyphen"/>ſpect of</hi>
+               </item>
+               <item>1. <hi>The</hi> non-apprehenſion of any good <hi>that ever they got by the ſervice of God.</hi> 62</item>
+               <item>Anſw. <hi>To this</hi> Objection;
+<list>
+                     <item>1. <hi>Thy ſervice may be profi<g ref="char:EOLhyphen"/>table to</hi> others, <hi>though not to thy</hi> ſelfe. 66</item>
+                     <item>2. <hi>God payes thee by way of</hi> exchange. 71</item>
+                     <item>3. <hi>Thou ſhalt be</hi> better <hi>for it</hi> hereafter, <hi>though not for the</hi> preſent. 74</item>
+                  </list>
+               </item>
+               <item>2. <hi>The</hi> indiſcernable diffe<g ref="char:EOLhyphen"/>rence <hi>that is in them<g ref="char:EOLhyphen"/>ſelves, betweene their</hi> ſerving, and not ſer<g ref="char:EOLhyphen"/>ving <hi>of God; they thrive as well, &amp;c.</hi> 78</item>
+               <pb facs="tcp:38073:91"/>
+               <item>Anſ. <hi>To this</hi> Objection,
+<list>
+                     <item>1. <hi>It is a ſad thing that a gracious heart ſhould</hi> tempt God, <hi>in this manner.</hi> 80</item>
+                     <item>2. <hi>If there be no difference in thy</hi> outward man, <hi>yet there is difference in thy</hi> ſoule. 81</item>
+                     <item>3. <hi>Though</hi> ſometime <hi>there is no difference, yet at</hi> o<g ref="char:EOLhyphen"/>ther times <hi>there is.</hi> 82</item>
+                     <item>4. <hi>They are not ſuch ſpeciall mercies if they come not in this way.</hi> 84</item>
+                  </list>
+               </item>
+               <item>2. Objections <hi>doe ariſe in the hearts of</hi> Gods people, <hi>ſpringing</hi> from others; 84, 85</item>
+               <item>
+                  <hi>For ſuch as have</hi> no care <hi>to ſerve</hi> God <hi>at all,</hi> fare as well, <hi>(in their apprehenſion) as thoſe that</hi> ſerve him moſt, <hi>and</hi> beſt <hi>of all.</hi> 85</item>
+               <pb facs="tcp:38073:92"/>
+               <item>Anſw. <hi>to this</hi> Objection.
+<list>
+                     <item>1. <hi>They fare not ſo well in their</hi> Soules, <hi>though they fare as well in</hi> outward <hi>bleſ<g ref="char:EOLhyphen"/>ſings,</hi> 85</item>
+                     <item>2. <hi>Thoſe outward bleſſings may be the fruit of</hi> other <hi>mens ſervice, and not of</hi> their own. 86</item>
+                     <item>3. <hi>The</hi> proſperity <hi>of this life is not worthy the name of</hi> reward. 88</item>
+                  </list>
+               </item>
+               <item>Obj. <hi>If</hi> Gods people <hi>may judge the ſervice of God to be</hi> vaine, <hi>then ſay</hi> carnall men, <hi>we hope our</hi> conditi<g ref="char:EOLunhyphen"/>on <hi>is not ſo</hi> bad, <hi>as we fea<g ref="char:EOLhyphen"/>red, though we alſo do judge the</hi> ſervice of God, <hi>as vaine.</hi> 91, 92</item>
+               <item>Anſ. <hi>To this</hi> Objection, <hi>there is a wide</hi> difference <hi>be<g ref="char:EOLhyphen"/>tweene the</hi> thoughts <hi>of the</hi> godly, <hi>and of the</hi> wicked
+<pb facs="tcp:38073:92"/>
+                  <hi>in this reſpect;</hi> 93
+<list>
+                     <item>
+                        <hi>For,</hi> 1. <hi>Such</hi> thoughts <hi>in the</hi> godly <hi>are</hi> injected <hi>by Sa<g ref="char:EOLhyphen"/>tan,</hi> not ſetled <hi>in the heart, as it is in the wicked.</hi> 94</item>
+                     <item>2. <hi>Such</hi> thoughts <hi>in the</hi> God<g ref="char:EOLhyphen"/>ly <hi>are not about</hi> the ſer<g ref="char:EOLhyphen"/>vice of God it ſelfe, <hi>but onely about</hi> their particu<g ref="char:EOLhyphen"/>lar <hi>ſervice of God.</hi> 95</item>
+                     <item>3. <hi>Such</hi> thoughts, beat them <hi>not off from his ſervice, as they doe the</hi> wicked. 96</item>
+                     <item>4. <hi>Such</hi> thoughts <hi>in the</hi> god<g ref="char:EOLhyphen"/>ly <hi>are</hi> followed <hi>with</hi> ſor<g ref="char:EOLhyphen"/>row <hi>and repentance, but not in the wicked.</hi> 99</item>
+                  </list>
+               </item>
+               <item>3. <hi>The</hi> Doctrine <hi>is applyed by way of</hi> caution and ex<g ref="char:EOLhyphen"/>hortation.
+<list>
+                     <item>1. <hi>To the</hi> wicked, <hi>to warne them to take heed of this ſinne, of cenſuring Gods</hi> ſervice <hi>and</hi> ſervants. 100</item>
+                     <pb facs="tcp:38073:93"/>
+                     <item>2. <hi>To the</hi> people of God; <hi>to take heed how they harbour ſuch</hi> hard thoughts, <hi>about the</hi> ſer<g ref="char:EOLhyphen"/>vice of God, <hi>or how they ſuddenly</hi> caſt a<g ref="char:EOLhyphen"/>way their confidence <hi>in God.</hi> 102</item>
+                     <item>3. <hi>To</hi> all in Generall <hi>to take heed that as the ſervice of God is</hi> not vaine <hi>in it</hi> ſelfe, <hi>ſo it may</hi> not <hi>prove</hi> vaine <hi>to</hi> them. 108</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>And that it may not prove</hi> vaine <hi>take theſe</hi> directions.
+<list>
+                     <item>1. <hi>Get into</hi> Covenant <hi>with</hi> him, <hi>for</hi> whom <hi>wee</hi> worke, <hi>as were expect acceptance, Reward.</hi> 112</item>
+                     <item>2. <hi>Take heed of a</hi> ſlighty ſpirit, <hi>and of</hi> meane thoughts <hi>of the duties of</hi> Gods ſervice. 119</item>
+                     <item>3. <hi>Be</hi> Faithfull <hi>in the per<g ref="char:EOLhyphen"/>formance
+<pb facs="tcp:38073:93"/>of this ſervice.</hi> 121</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>This</hi> Faithfulneſſe <hi>muſt bee ſhewed in five particulars.</hi> 122
+<list>
+                     <item>1. <hi>In</hi> Carefulneſſe; <hi>ſeene in the</hi> univerſality <hi>of our obedience active and paſſive.</hi> 122</item>
+                     <item>2. <hi>In</hi> Diligence; <hi>ſeene in in doing</hi> all <hi>Gods</hi> work, <hi>with</hi> all <hi>our</hi> might. 124</item>
+                     <item>3. <hi>In</hi> Sincerity; <hi>ſeene in ma<g ref="char:EOLhyphen"/>king Gods, command the principle, Gods glory the end, of all our worke.</hi> 126</item>
+                     <item>4. <hi>In</hi> Beliefe; <hi>ſeene in re<g ref="char:EOLhyphen"/>ſting upon Gods promiſe for aſſiſtance, acceptance</hi> 129</item>
+                     <item>5. <hi>In</hi> Perſeverance; <hi>ſeene in holding out to the</hi> end without wavering. 133</item>
+                  </list>
+               </item>
+            </list>
+            <pb facs="tcp:38073:94"/>
+            <p>Hee that doth theſe things ſhall never be removed.</p>
+            <p>His labour in the Lord ſhall not be in vaine.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:38073:94"/>
+            <head>Errata.</head>
+            <p>PAge 40. for oneis <hi>read</hi> one is, page 43. it doggs him <hi>read</hi> here it doggs him, page 57. judge <hi>ſo</hi> evill put out <hi>ſo,</hi> page 67. in the 1. line put out <hi>may be,</hi> p. 82. for, diuſe <hi>r.</hi> diſuſe, page 91. for, they made up as his Jewell were &amp;c. <hi>Read</hi> they were made up as his Jewels, &amp;c. pa 105. for, it that <hi>read,</hi> it hath, pag. 105. blot our And, pag. 107. for affirme <hi>read</hi> attain, pag. 115. for <hi>Eſay read</hi> Iſaiah, pag. 120. for, as honourable <hi>read</hi> as an ho<g ref="char:EOLhyphen"/>nourable, pag. 126. for Zealous God, <hi>read Zealous for God,</hi> and put out for in the next line, pag. 127. blot out, and, 127. For diſern <hi>read</hi> diſcern, 130. blot out as he ſaid, 137. for, &amp; good <hi>r.</hi> much good, 138. for yet, <hi>read</hi> yea, 145. for made good <hi>read,</hi> be made good.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
